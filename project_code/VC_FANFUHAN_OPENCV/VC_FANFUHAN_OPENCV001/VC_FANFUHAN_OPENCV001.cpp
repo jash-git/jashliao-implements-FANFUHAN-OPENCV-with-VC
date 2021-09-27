@@ -55,7 +55,7 @@ int main()
 	}
 	else
 	{
-		namedWindow("input");
+		namedWindow("input", WINDOW_AUTOSIZE);
 		imshow("input", image);
 		imwrite("output.jpg", image);
 		waitKey(0);
