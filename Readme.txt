@@ -20,10 +20,10 @@
 		http://jashliao.eu/wordpress/2020/02/13/fanfuhan-opencv-%e6%95%99%e5%ad%b8005-opencv-005-%e5%83%8f%e7%b4%a0pixel%e8%a8%88%e7%ae%97%e6%93%8d%e4%bd%9c-%e5%9c%96%e7%89%87%e5%90%88%e6%88%90/
 
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學006 ~ opencv-006-Look Up Table(LUT)查找表的使用 [顏色轉換(偽顏色)/手寫灰階轉二值化]	
+		http://jashliao.eu/wordpress/2020/02/14/fanfuhan-opencv-%e6%95%99%e5%ad%b8006-opencv-006-look-up-tablelut%e6%9f%a5%e6%89%be%e8%a1%a8%e7%9a%84%e4%bd%bf%e7%94%a8-%e9%a1%8f%e8%89%b2%e8%bd%89%e6%8f%9b/
 		
-		
-
-
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學007 ~ opencv-007-圖像像素之邏輯(AND、OR、XOR、NOT)運算操作 [使用顏色特性，圖片預先處理，藉此凸顯/過濾特徵點]
+		http://jashliao.eu/wordpress/2020/02/17/fanfuhan-opencv-%e6%95%99%e5%ad%b8007-opencv-007-%e5%9c%96%e5%83%8f%e5%83%8f%e7%b4%a0%e4%b9%8b%e9%82%8f%e8%bc%af%e6%93%8d%e4%bd%9c-%e4%bd%bf%e7%94%a8%e9%a1%8f%e8%89%b2%e7%89%b9%e6%80%a7%ef%bc%8c/
 		
 		
 		
