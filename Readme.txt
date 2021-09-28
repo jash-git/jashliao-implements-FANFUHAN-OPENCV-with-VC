@@ -28,8 +28,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學008 ~ opencv-008-圖像顏色通道(RGB)的分離(拆分)與合併(組合) [過濾特定顏色干擾訊號]	
 		http://jashliao.eu/wordpress/2020/02/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8008-opencv-008-%e5%9c%96%e5%83%8f%e9%80%9a%e9%81%93%e7%9a%84%e5%88%86%e9%9b%a2%e8%88%87%e5%90%88%e4%bd%b5/
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學009 ~ opencv-009-色彩空間(HSV)提取圖像的前景和背景及其應用	
+		http://jashliao.eu/wordpress/2020/02/21/fanfuhan-opencv-%e6%95%99%e5%ad%b8009-opencv-009-%e8%89%b2%e5%bd%a9%e7%a9%ba%e9%96%93%e5%8f%8a%e5%85%b6%e6%87%89%e7%94%a8%ef%bc%88%e6%8f%90%e5%8f%96%e5%9c%96%e5%83%8f%e7%9a%84%e5%89%8d%e6%99%af/
 		
 		
 		
