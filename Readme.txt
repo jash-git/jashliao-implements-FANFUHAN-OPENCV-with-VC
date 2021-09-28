@@ -25,6 +25,22 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學007 ~ opencv-007-圖像像素之邏輯(AND、OR、XOR、NOT)運算操作 [使用顏色特性，圖片預先處理，藉此凸顯/過濾特徵點]
 		http://jashliao.eu/wordpress/2020/02/17/fanfuhan-opencv-%e6%95%99%e5%ad%b8007-opencv-007-%e5%9c%96%e5%83%8f%e5%83%8f%e7%b4%a0%e4%b9%8b%e9%82%8f%e8%bc%af%e6%93%8d%e4%bd%9c-%e4%bd%bf%e7%94%a8%e9%a1%8f%e8%89%b2%e7%89%b9%e6%80%a7%ef%bc%8c/
 		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學008 ~ opencv-008-圖像顏色通道(RGB)的分離(拆分)與合併(組合) [過濾特定顏色干擾訊號]	
+		http://jashliao.eu/wordpress/2020/02/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8008-opencv-008-%e5%9c%96%e5%83%8f%e9%80%9a%e9%81%93%e7%9a%84%e5%88%86%e9%9b%a2%e8%88%87%e5%90%88%e4%bd%b5/
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
