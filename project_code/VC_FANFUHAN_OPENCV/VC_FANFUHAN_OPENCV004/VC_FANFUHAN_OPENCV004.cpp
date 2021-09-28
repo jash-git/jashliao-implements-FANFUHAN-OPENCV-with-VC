@@ -47,8 +47,8 @@ void pause()
 
 int main()
 {
-	Mat src = imread("../../images/l_hires.jpg");//IDE 測試路徑
-												 //Mat src = imread("../../../images/l_hires.jpg");//執行檔 測試路徑
+	Mat src = imread("../../images/l_hires.jpg");//IDE 測試路徑 , IMREAD_GRAYSCALE
+	//Mat src = imread("../../../images/l_hires.jpg");//執行檔 測試路徑
 
 	if (src.empty()) {
 		cout << "could not load image..." << endl;
@@ -64,15 +64,17 @@ int main()
 		int width = src.cols;
 		int ch = src.channels();
 
-		//*
+		/*
 		Mat color_reverse = Mat::zeros(src.size(), src.type());
 		Mat OnlyRed = Mat::zeros(src.size(), src.type());
 		Mat OnlyGreen = Mat::zeros(src.size(), src.type());
 		Mat OnlyBlue = Mat::zeros(src.size(), src.type());
 
 		// 直接读取图像像素,將圖片顏色反轉
-		for (int row = 0; row < height; ++row) {
-			for (int col = 0; col < width; ++col) {
+		for (int row = 0; row < height; ++row)
+		{
+			for (int col = 0; col < width; ++col)
+			{
 				if (ch == 3) {
 					Vec3b bgr = src.at<Vec3b>(row, col);
 
@@ -101,6 +103,7 @@ int main()
 					OnlyRed.at<Vec3b>(row, col) = bgrRed;
 					OnlyGreen.at<Vec3b>(row, col) = bgrGreen;
 					OnlyBlue.at<Vec3b>(row, col) = bgrBlue;
+
 				}
 				else if (ch == 1) {
 					int gray = src.at<uchar>(row, col);
@@ -108,20 +111,24 @@ int main()
 				}
 			}
 		}
+
+		if (ch != 1)
+		{
+			namedWindow("OnlyRed");
+			imshow("OnlyRed", OnlyRed);
+
+			namedWindow("OnlyGreen");
+			imshow("OnlyGreen", OnlyGreen);
+
+			namedWindow("OnlyBlue");
+			imshow("OnlyBlue", OnlyBlue);
+		}
+
 		namedWindow("color_reverse");
 		imshow("color_reverse", color_reverse);
-
-		namedWindow("OnlyRed");
-		imshow("OnlyRed", OnlyRed);
-
-		namedWindow("OnlyGreen");
-		imshow("OnlyGreen", OnlyGreen);
-
-		namedWindow("OnlyBlue");
-		imshow("OnlyBlue", OnlyBlue);
 		//*/
 
-		/*
+		//*
 		// 指针读取
 		Mat result = Mat::zeros(src.size(), src.type());
 		Mat OnlyRed = Mat::zeros(src.size(), src.type());
@@ -166,17 +173,20 @@ int main()
 			}
 		}
 
+		if (ch != 1)
+		{
+			namedWindow("OnlyRed");
+			imshow("OnlyRed", OnlyRed);
+
+			namedWindow("OnlyGreen");
+			imshow("OnlyGreen", OnlyGreen);
+
+			namedWindow("OnlyBlue");
+			imshow("OnlyBlue", OnlyBlue);
+		}
+
 		namedWindow("result");
 		imshow("result", result);
-
-		namedWindow("OnlyRed");
-		imshow("OnlyRed", OnlyRed);
-
-		namedWindow("OnlyGreen");
-		imshow("OnlyGreen", OnlyGreen);
-
-		namedWindow("OnlyBlue");
-		imshow("OnlyBlue", OnlyBlue);
 		//*/
 
 		waitKey(0);
