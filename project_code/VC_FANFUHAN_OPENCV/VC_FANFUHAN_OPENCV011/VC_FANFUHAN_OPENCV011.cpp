@@ -1,4 +1,5 @@
 ﻿// VC_FANFUHAN_OPENCV011.cpp : 定義主控台應用程式的進入點。
+//
 /*
 // Debug | x32
 通用屬性

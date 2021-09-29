@@ -37,11 +37,11 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學011 ~ opencv-011-圖像(像素)資料預先處理[ 歸一化 normalize()]
 		http://jashliao.eu/wordpress/2020/03/04/fanfuhan-opencv-%e6%95%99%e5%ad%b8011-opencv-011-%e5%9c%96%e5%83%8f%e5%83%8f%e7%b4%a0%e6%ad%b8%e4%b8%80%e5%8c%96/
 		
-	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學012 ~ OpenCV的-012視頻讀寫[抓取影片資訊、影片撥放拷貝(讀取影格/顯示圖像(畫面)&寫入檔案)]	
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學012 ~ opencv-012-視頻讀寫[抓取影片資訊、影片撥放拷貝(讀取影格/顯示圖像(畫面)&寫入檔案)]	
 		http://jashliao.eu/wordpress/2020/03/06/fanfuhan-opencv-%e6%95%99%e5%ad%b8012-opencv%e7%9a%84-012%e8%a6%96%e9%a0%bb%e8%ae%80%e5%af%ab%e6%8a%93%e5%8f%96%e5%bd%b1%e7%89%87%e7%95%ab%e9%9d%a2%e5%a4%a7%e5%b0%8f%e3%80%81%e5%bd%b1%e7%89%87/
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學013 ~ opencv-013圖片XY翻轉[flip()-(顛倒/轉向/旋轉)]	
+		http://jashliao.eu/wordpress/2020/03/06/fanfuhan-opencv-%e6%95%99%e5%ad%b8013-opencv%e7%9a%84-013%e5%9c%96%e7%89%87%e7%bf%bb%e8%bd%89%e9%a1%9b%e5%80%92-%e8%bd%89%e5%90%91-%e6%97%8b%e8%bd%89/
 		
 		
 		
