@@ -32,10 +32,10 @@
 		http://jashliao.eu/wordpress/2020/02/21/fanfuhan-opencv-%e6%95%99%e5%ad%b8009-opencv-009-%e8%89%b2%e5%bd%a9%e7%a9%ba%e9%96%93%e5%8f%8a%e5%85%b6%e6%87%89%e7%94%a8%ef%bc%88%e6%8f%90%e5%8f%96%e5%9c%96%e5%83%8f%e7%9a%84%e5%89%8d%e6%99%af/
 		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學010 ~ opencv-010-圖像像素值統計函數[minMaxLoc(一維陣列<灰階>最大最小值&位置座標) / meanStdDev(計算每一顏色通道平均值&標準差) / 普通圖像轉化為二值化圖像 / 彩色圖的相似顏色都標成相同區域，簡易分割圖片方式]
-		
-		
-		
-		
+		http://jashliao.eu/wordpress/2020/02/24/fanfuhan-opencv-%e6%95%99%e5%ad%b8010-opencv-010-%e5%9c%96%e5%83%8f%e5%83%8f%e7%b4%a0%e5%80%bc%e7%b5%b1%e8%a8%88%e5%8f%8a%e6%87%89%e7%94%a8%ef%bc%88%e6%99%ae%e9%80%9a%e5%9c%96%e5%83%8f%e8%bd%89/
+
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學011 ~ opencv-011-圖像(像素)資料預先處理[ 歸一化 normalize()]
+		http://jashliao.eu/wordpress/2020/03/04/fanfuhan-opencv-%e6%95%99%e5%ad%b8011-opencv-011-%e5%9c%96%e5%83%8f%e5%83%8f%e7%b4%a0%e6%ad%b8%e4%b8%80%e5%8c%96/
 		
 		
 		
