@@ -43,8 +43,15 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學013 ~ opencv-013-圖片XY翻轉[flip()-(顛倒/轉向/旋轉)]	
 		http://jashliao.eu/wordpress/2020/03/06/fanfuhan-opencv-%e6%95%99%e5%ad%b8013-opencv%e7%9a%84-013%e5%9c%96%e7%89%87%e7%bf%bb%e8%bd%89%e9%a1%9b%e5%80%92-%e8%bd%89%e5%90%91-%e6%97%8b%e8%bd%89/
 		
-	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學014 ~ opencv-014-使用resize進行圖像插值（resize() ~ Image Interpolation）圖像放大/縮小(Zoom In/Zoom Out)
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學014 ~ opencv-014-使用resize進行圖像插值[Image Interpolation ~ ​resize()​] 圖像放大/縮小(Zoom In/Zoom Out)
 		http://jashliao.eu/wordpress/2020/03/09/fanfuhan-opencv-%e6%95%99%e5%ad%b8014-opencv-014-%e4%bd%bf%e7%94%a8resize%e9%80%b2%e8%a1%8c%e5%9c%96%e5%83%8f%e6%8f%92%e5%80%bc%ef%bc%88image-interpolation%ef%bc%89/
+		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學015 ~ opencv-015-圖像/畫布上繪製幾何形狀及隨機數的生成(繪圖/幾何圖/畫線/建立畫布)	
+		http://jashliao.eu/wordpress/2020/03/10/fanfuhan-opencv-%e6%95%99%e5%ad%b8015-opencv-015-%e7%b9%aa%e8%a3%bd%e5%b9%be%e4%bd%95%e5%bd%a2%e7%8b%80%e5%8f%8a%e9%9a%a8%e6%a9%9f%e6%95%b8%e7%9a%84%e7%94%9f%e6%88%90%e7%b9%aa%e5%9c%96-%e5%b9%be/
+		
+		
+		
+		
 		
 		
 		
