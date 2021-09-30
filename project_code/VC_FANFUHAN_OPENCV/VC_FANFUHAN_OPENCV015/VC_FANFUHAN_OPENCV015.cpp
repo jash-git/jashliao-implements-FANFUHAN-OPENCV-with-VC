@@ -44,6 +44,74 @@ void pause()
 }
 int main()
 {
+/*
+OpenCV 畫線
+	void line(Mat& img, Point pt1, Point pt2, const Scalar& color, int thickness=1, int lineType=8, int shift=0)
+	img：輸入圖，線會畫在上面。
+	pt1：線的起點。
+	pt2：線的終點。
+	color：線的顏色。
+	thickness：線的厚度。
+	lineType：通道型態，可輸入8、4、CV_AA： 8->8通道連結。 4->4通道連結。 CV_AA->消除鋸齒(antialiased line)，消除顯示器畫面線邊緣的凹凸鋸齒。
+
+
+OpenCV 畫矩形
+	void rectangle(Mat& img, Point pt1, Point pt2, const Scalar& color, int thickness=1, int lineType=8, int shift=0)
+	img：輸入圖，矩形會畫在上面。
+	pt1：矩形頂點。
+	pt2：矩形頂點，pt1的對角邊
+	color：矩形的顏色。
+	thickness：矩形的邊線寬度，輸入負值或CV_FILLED代表填滿矩形。
+	lineType：通道型態，可輸入8、4、CV_AA： 8->8通道連結。 4->4通道連結。 CV_AA->消除鋸齒(antialiased line)，消除顯示器畫面線邊緣的凹凸鋸齒。
+
+
+OpenCV 畫圓
+void circle(Mat& img, Point center, int radius, const Scalar& color, int thickness=1, int lineType=8, int shift=0)
+	img：輸入圖，圓會畫在上面。
+	center：圓心。
+	radius：圓半徑。
+	color：圓形的顏色。
+	thickness：圓形的邊線寬度，輸入負值或CV_FILLED代表填滿圓形。
+	lineType：通道型態，可輸入8、4、CV_AA： 8->8通道連結。 4->4通道連結。 CV_AA->消除鋸齒(antialiased line)，消除顯示器畫面線邊緣的凹凸鋸齒。
+
+
+OpenCV 畫橢圓
+void ellipse(Mat& img, Point center, Size axes, double angle, double startAngle, double endAngle, const Scalar& color, int thickness=1, int lineType=8, int shift=0)
+	img：輸入圖，橢圓會畫在上面。
+	center：圓心。
+	axes：橢圓軸的尺寸。
+	angle：旋轉角度，單位角度。
+	startAngle：橢圓弧度起始角度，單位角度。
+	endAngle：橢圓弧度結束角度，單位角度。
+	color：橢圓的顏色。
+	thickness：橢圓的邊線寬度，輸入負值或CV_FILLED代表填滿橢圓形 。
+	lineType：通道型態，可輸入8、4、CV_AA： 8->8通道連結。 4->4通道連結。 CV_AA->消除鋸齒(antialiased line)，消除顯示器畫面線邊緣的凹凸鋸齒。
+
+
+OpenCV 畫多角形
+void polylines(Mat& img, const Point** pts, const int* npts, int ncontours, bool isClosed, const Scalar& color, int thickness=1, intlineType=8, int shift=0)
+	img：輸入圖，多角形會畫在上面。
+	pts：包含多角形各個曲線點的陣列。
+	npts：包含多角形各曲線頂點數目的陣列。
+	ncontours：曲線數。
+	isClosed：是否為封閉的多角形。
+	color：多角形的顏色。
+	thickness：多角形的邊線寬度，輸入負值或CV_FILLED代表填滿多角形。
+	lineType：通道型態，可輸入8、4、CV_AA： 8->8通道連結。 4->4通道連結。 CV_AA->消除鋸齒(antialiased line)，消除顯示器畫面線邊緣的凹凸鋸齒。
+
+
+OpenCV 畫文字字串
+void putText(Mat& img, const string& text, Point org, int fontFace, double fontScale, Scalar color, int thickness=1, int lineType=8, bool bottomLeftOrigin=false)
+	img：輸入圖，字串會畫在上面。
+	text：輸出字串，OpenCV目前沒有支援中文文字顯現。
+	org：文字左下角位置。
+	fontFace：字體樣式。
+	fontScale：字體大小。
+	color：字串顏色。
+	thickness：構成字串的線寬度。
+	lineType：通道型態，有以下三種可選： 8：8通道連結。 4：4通道連結。 CV_AA：消除鋸齒(antialiased line)，消除顯示器畫面橢圓邊緣的凹凸鋸齒。
+
+*/
 	Mat src_bgr = imread("../../images/test.png");
 
 	if (src_bgr.empty())
@@ -99,6 +167,26 @@ int main()
 			}
 		}
 
+		//-----------------------------------------
+
+		Mat img(488, 400, CV_8UC3, Scalar(255, 255, 255));//建立彩色白底畫布
+
+		line(img, Point(20, 40), Point(120, 140), Scalar(255, 9, 9), 3);
+		rectangle(img, Point(150, 40), Point(250, 140), Scalar(0, 0, 255), -1);
+		circle(img, Point(330, 90), 50, Scalar(9, 255, 9), -1);
+		ellipse(img, Point(80, 280), Size(60, 48), 45, 9, 360, Scalar(255, 255, 9), 2);
+		
+		Point points[1][5];
+		points[0][0] = Point(150, 279);
+		points[0][1] = Point(190, 229);
+		points[0][2] = Point(260, 255);
+		points[0][3] = Point(224, 296);
+		points[0][4] = Point(178, 316);
+		const Point* ppt[1] = { points[0] };
+		int npt[] = { 5 };
+		polylines(img, ppt, npt, 1, 1, Scalar(0, 255, 255), 5);
+		putText(img, string("OpenCv"), Point(280, 280), 0, 1, Scalar(0, 0, 0), 3);
+		imshow("window", img);
 		waitKey(0);
 	}
 
