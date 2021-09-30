@@ -49,8 +49,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學015 ~ opencv-015-圖像/畫布上繪製幾何形狀及隨機數的生成(繪圖/幾何圖/多邊形/秀英文字/畫線/建立畫布)[line()、ellipse()、circle()、rectangle()、putText()、polylines()]
 		http://jashliao.eu/wordpress/2020/03/10/fanfuhan-opencv-%e6%95%99%e5%ad%b8015-opencv-015-%e7%b9%aa%e8%a3%bd%e5%b9%be%e4%bd%95%e5%bd%a2%e7%8b%80%e5%8f%8a%e9%9a%a8%e6%a9%9f%e6%95%b8%e7%9a%84%e7%94%9f%e6%88%90%e7%b9%aa%e5%9c%96-%e5%b9%be/
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學016 ~ opencv-016-圖像ROI與ROI操作 [ 簡單使用HSV產生ROI實作 提取 前景&後景 分離 去背/替換背景]
+		http://jashliao.eu/wordpress/2020/03/11/fanfuhan-opencv-%e6%95%99%e5%ad%b8016-opencv-016-%e5%9c%96%e5%83%8froi%e8%88%87roi%e6%93%8d%e4%bd%9c%e7%b0%a1%e5%96%ae%e4%bd%bf%e7%94%a8hsv%e7%94%a2%e7%94%9froi%e5%af%a6%e4%bd%9c-%e5%89%8d%e5%be%8c/
 		
 		
 		
