@@ -60,20 +60,23 @@ int main()
 		int w = src_bgr.cols;
 		float fx = 0.0, fy = 0.0;//建立起始點
 		Mat dst = Mat::zeros(src_bgr.size(), src_bgr.type());//建立預設的空白畫布
-		Size S(w * 2, h * 2);//建立放大後尺寸
+		Size S00(w * 2, h * 2);//建立放大後尺寸
+		Size S01(w * 0.5, h * 0.5);//建立縮小後尺寸
 
-		resize(src_bgr, dst, S, fx, fy, INTER_NEAREST);
+		resize(src_bgr, dst, S00, fx, fy, INTER_NEAREST);
 		imshow("INTER_NEAREST", dst);
 
-		resize(src_bgr, dst, S, fx, fy, INTER_LINEAR);
+		resize(src_bgr, dst, S00, fx, fy, INTER_LINEAR);
 		imshow("INTER_LINEAR", dst);
 
-		resize(src_bgr, dst, S, fx, fy, INTER_CUBIC);
+		resize(src_bgr, dst, S00, fx, fy, INTER_CUBIC);
 		imshow("INTER_CUBIC", dst);
 
-		resize(src_bgr, dst, S, fx, fy, INTER_LANCZOS4);
+		resize(src_bgr, dst, S00, fx, fy, INTER_LANCZOS4);
 		imshow("INTER_LANCZOS4", dst);
 
+		resize(src_bgr, dst, S01, fx, fy, INTER_LINEAR);
+		imshow("INTER_LINEAR01", dst);
 		waitKey(0);
 
 	}
