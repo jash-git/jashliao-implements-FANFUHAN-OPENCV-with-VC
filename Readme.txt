@@ -52,8 +52,12 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學016 ~ opencv-016-圖像ROI與ROI操作 [ 簡單使用HSV產生ROI實作 提取 前景&後景 分離 去背/替換背景]
 		http://jashliao.eu/wordpress/2020/03/11/fanfuhan-opencv-%e6%95%99%e5%ad%b8016-opencv-016-%e5%9c%96%e5%83%8froi%e8%88%87roi%e6%93%8d%e4%bd%9c%e7%b0%a1%e5%96%ae%e4%bd%bf%e7%94%a8hsv%e7%94%a2%e7%94%9froi%e5%af%a6%e4%bd%9c-%e5%89%8d%e5%be%8c/
 		
-	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學017 ~ opencv-017-計算/顯示 彩色/灰階 對應 直方圖
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學017 ~ opencv-017-計算/顯示 彩色/灰階 對應的直方圖
 		http://jashliao.eu/wordpress/2020/03/12/fanfuhan-opencv-%e6%95%99%e5%ad%b8017-opencv-017-%e5%bd%a9%e8%89%b2%e7%9b%b4%e6%96%b9%e5%9c%96/
+		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學018 ~ opencv-018-彩色/灰階 圖像 直方圖均衡化 藉此提高圖像的質量(對比/清晰)
+		http://jashliao.eu/wordpress/2020/03/16/fanfuhan-opencv-%e6%95%99%e5%ad%b8018-opencv-018-%e5%9c%96%e5%83%8f%e7%9b%b4%e6%96%b9%e5%9c%96%e5%9d%87%e8%a1%a1%e5%8c%96/
+		
 		
 		
 		
