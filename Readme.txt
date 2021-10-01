@@ -70,7 +70,7 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學022 ~ opencv-022-圖像均值模糊(blur)和高斯模糊(GaussianBlur)影像濾波器實際比較	[保持銳利度&降低雜訊干擾]
 		http://jashliao.eu/wordpress/2020/03/19/fanfuhan-opencv-%e6%95%99%e5%ad%b8022-opencv-022-%e5%9c%96%e5%83%8f%e5%9d%87%e5%80%bc%e6%a8%a1%e7%b3%8a%e5%92%8c%e9%ab%98%e6%96%af%e6%a8%a1%e7%b3%8a%e5%bd%b1%e5%83%8f%e6%89%93%e9%a6%ac%e8%b3%bd/
 		
-	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學023 ~ opencv-023-圖像中值模糊(medianBlur)和高斯模糊(GaussianBlur)影像濾波器實際比較 [去除白雜訊]	
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學023 ~ opencv-023-圖像高斯模糊(GaussianBlur)和中值模糊(medianBlur)影像濾波器實際比較 [去除白雜訊]	
 		http://jashliao.eu/wordpress/2020/03/19/fanfuhan-opencv-%e6%95%99%e5%ad%b8023-opencv-023-%e5%9c%96%e5%83%8f%e4%b8%ad%e5%80%bc%e6%a8%a1%e7%b3%8a%e4%b8%ad%e5%80%bc%e6%bf%be%e6%b3%a2%e5%bd%b1%e5%83%8f%e5%8e%bb%e9%99%a4%e9%9b%9c%e8%a8%8a/
 		
 		
