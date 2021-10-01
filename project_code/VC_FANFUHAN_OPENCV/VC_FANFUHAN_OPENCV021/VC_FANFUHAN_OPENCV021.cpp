@@ -63,7 +63,7 @@ int main()
 
 		//均值模糊
 		Mat dst;
-		blur(src, dst, Size(15, 15), Point(-1, -1), 4);
+		blur(src, dst, Size(6, 6), Point(-1, -1), 4);//blur(src, dst, Size(15, 15), Point(-1, -1), 4);//blur(src, dst, Size(3, 3), Point(-1, -1), 4);
 		imshow("dst_blur", dst);
 		showHistogram(dst, "Histogram_dst_blur");
 
@@ -71,6 +71,8 @@ int main()
 		blur3x3(src, &dst01);// 3x3 均值模糊，自定义版本实现
 		imshow("dst01_blur3x3", dst01);
 		showHistogram(dst01, "Histogram_dst01_blur3x3");
+
+
 		waitKey(0);
 	}
 
