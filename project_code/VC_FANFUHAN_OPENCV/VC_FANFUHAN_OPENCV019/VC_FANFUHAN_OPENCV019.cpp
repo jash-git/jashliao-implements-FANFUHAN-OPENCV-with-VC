@@ -79,7 +79,7 @@ int main()
 		showHistogram(hsv2, "Histogram_input_hsv2");
 
 		int h_bins = 60, s_bins = 64;
-		int histSize[] = { h_bins, s_bins };
+		int histSize[] = { h_bins, s_bins };//要切分的像素強度值範圍，預設為256。每個channel皆可指定一個範圍。例如，[32,32,32] 表示RGB三個channels皆切分為32區段
 		float h_ranges[] = { 0, 180 };
 		float s_ranges[] = { 0, 256 };
 		const float* ranges[] = { h_ranges, s_ranges };
@@ -228,8 +228,6 @@ max=max(R,G,B)；
 min=min(R,G,B)；
 V=max(R,G,B)；
 S=(max-min)/max；
-HSV顏色空間模型（圓錐模型）
-HSV顏色空間模型（圓錐模型） [2]
 if (R = max) H =(G-B)/(max-min)* 60；
 if (G = max) H = 120+(B-R)/(max-min)* 60；
 if (B = max) H = 240 +(R-G)/(max-min)* 60；

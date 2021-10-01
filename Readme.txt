@@ -61,8 +61,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學019 ~ opencv-019-使用HSV圖像進行直方圖比較，進而判斷/計算圖像相似度(相似程度)[以圖找圖/以圖搜圖]
 		http://jashliao.eu/wordpress/2020/03/17/fanfuhan-opencv-%e6%95%99%e5%ad%b8019-opencv-019-%e5%9c%96%e5%83%8f%e7%9b%b4%e6%96%b9%e5%9c%96%e6%af%94%e8%bc%83/
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學020 ~ opencv-020-使用HSV圖像直方圖透過反向投影(calcBackProjec)計算出特定顏色的不規則ROI的mask [用區域顏色圖片 進行圖像 前景/背景 標記/分割]
+		http://jashliao.eu/wordpress/2020/03/19/fanfuhan-opencv-%e6%95%99%e5%ad%b8020-opencv-020-%e5%9c%96%e5%83%8f%e7%9b%b4%e6%96%b9%e5%9c%96%e5%8f%8d%e5%90%91%e6%8a%95%e5%bd%b1-%e7%94%a8%e5%8d%80%e5%9f%9f%e9%a1%8f%e8%89%b2%e5%9c%96%e7%89%87/
 		
 		
 		
