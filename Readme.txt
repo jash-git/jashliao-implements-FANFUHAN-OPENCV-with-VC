@@ -64,6 +64,9 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學020 ~ opencv-020-使用HSV圖像直方圖透過反向投影(calcBackProjec)計算出特定顏色的不規則ROI的mask [用區域顏色圖片 進行圖像 前景/背景 標記/分割]
 		http://jashliao.eu/wordpress/2020/03/19/fanfuhan-opencv-%e6%95%99%e5%ad%b8020-opencv-020-%e5%9c%96%e5%83%8f%e7%9b%b4%e6%96%b9%e5%9c%96%e5%8f%8d%e5%90%91%e6%8a%95%e5%bd%b1-%e7%94%a8%e5%8d%80%e5%9f%9f%e9%a1%8f%e8%89%b2%e5%9c%96%e7%89%87/
 		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學021 ~ opencv-021-圖像捲積和均值模糊影像[打馬賽克/降低銳利度/降低雜訊干擾/顏色分割箝制動作]
+		http://jashliao.eu/wordpress/2020/03/19/fanfuhan-opencv-%e6%95%99%e5%ad%b8021-opencv-021-%e5%9c%96%e5%83%8f%e6%8d%b2%e7%a9%8d%e5%92%8c%e5%9d%87%e5%80%bc%e6%a8%a1%e7%b3%8a%e5%bd%b1%e5%83%8f%e6%89%93%e9%a6%ac%e8%b3%bd%e5%85%8b/
+		
 		
 		
 		
