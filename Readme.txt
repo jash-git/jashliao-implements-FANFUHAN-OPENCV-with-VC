@@ -58,8 +58,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學018 ~ opencv-018-彩色/灰階 圖像 直方圖均衡化 藉此提高圖像的質量(對比/清晰)
 		http://jashliao.eu/wordpress/2020/03/16/fanfuhan-opencv-%e6%95%99%e5%ad%b8018-opencv-018-%e5%9c%96%e5%83%8f%e7%9b%b4%e6%96%b9%e5%9c%96%e5%9d%87%e8%a1%a1%e5%8c%96/
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學019 ~ opencv-019-使用HSV圖像進行直方圖比較，進而判斷/計算圖像相似度(相似程度)[以圖找圖/以圖搜圖]
+		http://jashliao.eu/wordpress/2020/03/17/fanfuhan-opencv-%e6%95%99%e5%ad%b8019-opencv-019-%e5%9c%96%e5%83%8f%e7%9b%b4%e6%96%b9%e5%9c%96%e6%af%94%e8%bc%83/
 		
 		
 		
