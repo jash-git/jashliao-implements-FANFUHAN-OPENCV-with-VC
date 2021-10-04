@@ -75,9 +75,9 @@
 		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學024 ~ opencv-024-圖像增加白雜訊&高斯雜訊	[產生濾波器測試輸入圖像]
 		http://jashliao.eu/wordpress/2020/03/19/fanfuhan-opencv-%e6%95%99%e5%ad%b8024-opencv-024-%e5%9c%96%e5%83%8f%e5%a2%9e%e5%8a%a0%e9%9b%9c%e8%a8%8a/
-		
-		
-		
+			
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學025 ~ opencv-025-圖像去除雜訊	[均值、高斯、中值、非局部平均(速度慢/效果佳) 濾波器]
+		http://jashliao.eu/wordpress/2020/03/19/fanfuhan-opencv-%e6%95%99%e5%ad%b8025-opencv-025-%e5%9c%96%e5%83%8f%e5%8e%bb%e9%99%a4%e9%9b%9c%e8%a8%8a/
 		
 		
 		
