@@ -28,6 +28,7 @@
 |		| 其他相依性 -> opencv_world411.lib;%(AdditionalDependencies)
 
 */
+
 #include "stdafx.h"
 #include <iostream>
 #include <opencv2/opencv.hpp>

@@ -82,8 +82,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學026 ~ opencv-026-邊緣保留濾波算法(EPF)–高斯雙邊模糊 [對於 白雜訊/高斯雜訊 無明顯效果]
 		http://jashliao.eu/wordpress/2020/03/23/fanfuhan-opencv-%e6%95%99%e5%ad%b8026-opencv-026-%e9%82%8a%e7%b7%a3%e4%bf%9d%e7%95%99%e6%bf%be%e6%b3%a2%e7%ae%97%e6%b3%95epf-%e9%ab%98%e6%96%af%e9%9b%99%e9%82%8a%e6%a8%a1%e7%b3%8a/
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學027 ~ opencv-027-邊緣保留濾波算法(EPF)–均值遷移模糊(mean-shift blur)
+		http://jashliao.eu/wordpress/2020/03/25/fanfuhan-opencv-%e6%95%99%e5%ad%b8027-opencv-027-%e9%82%8a%e7%b7%a3%e4%bf%9d%e7%95%99%e6%bf%be%e6%b3%a2%e7%ae%97%e6%b3%95epf-%e5%9d%87%e5%80%bc%e9%81%b7%e7%a7%bb%e6%a8%a1%e7%b3%8amean-shi/
 		
 		
 		
