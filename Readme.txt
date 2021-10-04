@@ -91,8 +91,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學029 ~ opencv-029-快速的圖像邊緣保護濾波算法(edgePreservingFilter)[彩色圖像]
 		http://jashliao.eu/wordpress/2020/03/25/fanfuhan-opencv-%e6%95%99%e5%ad%b8029-opencv-029-%e5%bf%ab%e9%80%9f%e7%9a%84%e5%9c%96%e5%83%8f%e9%82%8a%e7%b7%a3%e6%bf%be%e6%b3%a2%e7%ae%97%e6%b3%95/
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學030 ~ opencv-030-自定義濾波器	(filter2D) [實現 彩色/灰階 圖像 平均模糊、銳化、梯度、Sobel_XY]
+		http://jashliao.eu/wordpress/2020/03/25/fanfuhan-opencv-%e6%95%99%e5%ad%b8030-opencv-030-%e8%87%aa%e5%ae%9a%e7%be%a9%e6%bf%be%e6%b3%a2%e5%99%a8/
 		
 		
 		
