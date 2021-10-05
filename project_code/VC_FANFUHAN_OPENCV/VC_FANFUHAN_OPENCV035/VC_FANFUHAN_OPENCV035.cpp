@@ -13,7 +13,6 @@
 |
 | 	|一輸入
 |		| 其他相依性 -> opencv_world411d.lib;%(AdditionalDependencies)
-
 // Releas | x64
 組態屬性
 | C/C++
@@ -26,7 +25,6 @@
 |
 | 	|一輸入
 |		| 其他相依性 -> opencv_world411.lib;%(AdditionalDependencies)
-
 */
 
 #include "stdafx.h"
@@ -72,9 +70,7 @@ int main()
 		Mat blur_img, usm;
 		/*
 		USM銳化公式表示如下：
-
 		（源圖像– w*高斯模糊）/（1-w）；其中w表示權重（0.1～0.9），默認為0.6
-
 		OpenCV中的代碼實現步驟
 		– 高斯模糊
 		– 權重疊加
