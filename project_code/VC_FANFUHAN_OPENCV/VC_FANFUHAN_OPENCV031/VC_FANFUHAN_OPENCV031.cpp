@@ -69,6 +69,9 @@ int main()
 		Mat src_gray;
 		cvtColor(src, src_gray, COLOR_BGR2GRAY);
 
+		GaussianBlur(src, src, Size(7, 7), 0);
+		GaussianBlur(src_gray, src_gray, Size(7, 7), 0);
+
 		imshow("input_src", src);
 		showHistogram(src, "Histogram_input_src");
 
