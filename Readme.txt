@@ -103,8 +103,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學033 ~ opencv-033-圖像梯度之拉普拉斯算子(Laplacian)(二階導數算子)[彩色/灰階 圖像 邊緣檢測]	
 		http://jashliao.eu/wordpress/2020/03/31/fanfuhan-opencv-%e6%95%99%e5%ad%b8033-opencv-033-%e5%9c%96%e5%83%8f%e6%a2%af%e5%ba%a6%e4%b9%8b%e6%8b%89%e6%99%ae%e6%8b%89%e6%96%af%e7%ae%97%e5%ad%90%e4%ba%8c%e9%9a%8e%e5%b0%8e%e6%95%b8%e7%ae%97/
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學034 ~ opencv-034-圖像銳化 ~ 失焦(對焦失敗)的前置動作
+		http://jashliao.eu/wordpress/2020/04/01/fanfuhan-opencv-%e6%95%99%e5%ad%b8034-opencv-034-%e5%9c%96%e5%83%8f%e9%8a%b3%e5%8c%96-%e9%82%8a%e7%b7%a3%e6%aa%a2%e6%b8%ac-%e5%a4%b1%e7%84%a6%e5%b0%8d%e7%84%a6%e5%a4%b1%e6%95%97-%e7%9a%84/
 		
 		
 		
