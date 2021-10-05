@@ -97,6 +97,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學031 ~ opencv-031-圖像梯度之Sobel(邊緣檢測) [彩色/灰階 圖像 Sobel運算]
 		http://jashliao.eu/wordpress/2020/03/31/fanfuhan-opencv-%e6%95%99%e5%ad%b8031-opencv-031-%e5%9c%96%e5%83%8f%e6%a2%af%e5%ba%a6%e4%b9%8bsobel%e9%82%8a%e7%b7%a3%e6%aa%a2%e6%b8%ac%e5%bd%a9%e8%89%b2sobel%e9%81%8b%e7%ae%97/
 		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學032 ~ opencv-032-圖像梯度之robert算子與prewitt算子與 Sobel比較 (邊緣檢測) [彩色/灰階 圖像 robert & prewitt運算]	
+		http://jashliao.eu/wordpress/2020/03/31/fanfuhan-opencv-%e6%95%99%e5%ad%b8032-%e5%9c%96%e5%83%8f%e6%a2%af%e5%ba%a6%e4%b9%8brobert%e7%ae%97%e5%ad%90%e8%88%87prewitt%e7%ae%97%e5%ad%90%e9%82%8a%e7%b7%a3%e6%aa%a2%e6%b8%ac%e5%bd%a9%e8%89%b2/
 		
 		
 		
@@ -109,8 +111,17 @@
 		
 		
 		
-		
-		
+	
+
+
+
+
+
+
+
+
+
+	
 https://github.com/jash-git/jashliao-implements-FANFUHAN-OPENCV-with-VC
 		
 ★前言:
