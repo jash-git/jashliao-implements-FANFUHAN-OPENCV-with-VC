@@ -106,7 +106,9 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學034 ~ opencv-034-圖像銳化 ~ 失焦(對焦失敗)的前置動作
 		http://jashliao.eu/wordpress/2020/04/01/fanfuhan-opencv-%e6%95%99%e5%ad%b8034-opencv-034-%e5%9c%96%e5%83%8f%e9%8a%b3%e5%8c%96-%e9%82%8a%e7%b7%a3%e6%aa%a2%e6%b8%ac-%e5%a4%b1%e7%84%a6%e5%b0%8d%e7%84%a6%e5%a4%b1%e6%95%97-%e7%9a%84/
 		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學035 ~ opencv-035-圖像銳化增强演算法(USM) ~ 失焦(對焦失敗)的前置動作
+		http://jashliao.eu/wordpress/2020/04/08/fanfuhan-opencv-%e6%95%99%e5%ad%b8035-opencv-035-usm-%e5%9c%96%e5%83%8f%e9%8a%b3%e5%8c%96%e5%a2%9e%e5%bc%ba%e6%bc%94%e7%ae%97%e6%b3%95-%e9%82%8a%e7%b7%a3%e6%aa%a2%e6%b8%ac-%e5%a4%b1%e7%84%a6/
+	
 		
 		
 		
