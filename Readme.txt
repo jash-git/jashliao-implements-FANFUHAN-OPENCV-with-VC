@@ -115,9 +115,37 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學037 ~ opencv-037-高斯金字塔圖像(pyrUp / pyrDown)	
 		http://jashliao.eu/wordpress/2020/04/08/fanfuhan-opencv-%e6%95%99%e5%ad%b8037-opencv-037-%e5%9c%96%e5%83%8f%e9%87%91%e5%ad%97%e5%a1%94/
 	
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學038 ~ opencv-038-拉普拉斯金字塔
+		http://jashliao.eu/wordpress/2020/04/09/fanfuhan-opencv-%e6%95%99%e5%ad%b8038-opencv-038-%e6%8b%89%e6%99%ae%e6%8b%89%e6%96%af%e9%87%91%e5%ad%97%e5%a1%94/
 
-
-
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 
 
 
