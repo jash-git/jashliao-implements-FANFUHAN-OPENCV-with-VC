@@ -118,8 +118,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學038 ~ opencv-038-拉普拉斯金字塔
 		http://jashliao.eu/wordpress/2020/04/09/fanfuhan-opencv-%e6%95%99%e5%ad%b8038-opencv-038-%e6%8b%89%e6%99%ae%e6%8b%89%e6%96%af%e9%87%91%e5%ad%97%e5%a1%94/
 
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學039 ~ opencv-039-圖像模板匹配搜尋（matchTemplate） [模板與待測物大小(非待測圖)尺寸必須一致]	
+		http://jashliao.eu/wordpress/2020/04/10/fanfuhan-opencv-%e6%95%99%e5%ad%b8039-opencv-039-%e5%9c%96%e5%83%8f%e6%a8%a1%e6%9d%bf%e5%8c%b9%e9%85%8d%e6%90%9c%e5%b0%8b-%e6%a8%a1%e6%9d%bf%e8%88%87%e5%be%85%e6%b8%ac%e7%89%a9%e5%a4%a7%e5%b0%8f/
 		
 		
 		

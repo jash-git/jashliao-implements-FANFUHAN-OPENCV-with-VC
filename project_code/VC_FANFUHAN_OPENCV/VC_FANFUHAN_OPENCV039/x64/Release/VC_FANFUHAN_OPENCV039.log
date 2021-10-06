@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  VC_FANFUHAN_OPENCV039.cpp
+VC_FANFUHAN_OPENCV039.cpp(126): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+VC_FANFUHAN_OPENCV039.cpp(148): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  正在產生程式碼
+  All 322 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  VC_FANFUHAN_OPENCV039.vcxproj -> C:\Users\jashliao\Desktop\GIYHUB\jashliao-implements-FANFUHAN-OPENCV-with-VC\project_code\VC_FANFUHAN_OPENCV\x64\Release\VC_FANFUHAN_OPENCV039.exe
+  VC_FANFUHAN_OPENCV039.vcxproj -> C:\Users\jashliao\Desktop\GIYHUB\jashliao-implements-FANFUHAN-OPENCV-with-VC\project_code\VC_FANFUHAN_OPENCV\x64\Release\VC_FANFUHAN_OPENCV039.pdb (Full PDB)
