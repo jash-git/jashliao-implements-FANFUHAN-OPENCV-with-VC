@@ -112,8 +112,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學036 ~ opencv-036-Canny邊緣檢測(最推薦的邊緣檢測)
 		http://jashliao.eu/wordpress/2020/04/08/fanfuhan-opencv-%e6%95%99%e5%ad%b8036-opencv-036-canny%e9%82%8a%e7%b7%a3%e6%aa%a2%e6%b8%ac/
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學037 ~ opencv-037-高斯金字塔圖像(pyrUp / pyrDown)	
+		http://jashliao.eu/wordpress/2020/04/08/fanfuhan-opencv-%e6%95%99%e5%ad%b8037-opencv-037-%e5%9c%96%e5%83%8f%e9%87%91%e5%ad%97%e5%a1%94/
 	
 
 
