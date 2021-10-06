@@ -127,8 +127,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學041 ~ opencv-041-二值化圖像介紹 (使用threshold函數 製作5種二值化圖，這裡的threshold值還是憑感覺設定)	
 		http://jashliao.eu/wordpress/2020/04/10/fanfuhan-opencv-%e6%95%99%e5%ad%b8041-opencv-041-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e4%bb%8b%e7%b4%b9-%e4%bd%bf%e7%94%a8threshold%e5%87%bd%e6%95%b8-%e8%a3%bd%e4%bd%9c5%e7%a8%ae%e4%ba%8c/
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學042 ~ opencv-042-二值化圖像OTSU演算法(THRESH_OTSU)	
+		http://jashliao.eu/wordpress/2020/04/13/fanfuhan-opencv-%e6%95%99%e5%ad%b8042-opencv-042-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8fotsu%e6%bc%94%e7%ae%97%e6%b3%95thresh_otsu/
 		
 		
 		
