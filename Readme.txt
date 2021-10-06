@@ -133,8 +133,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學043 ~ opencv-043-二值化圖像TRIANGLE演算法(THRESH_TRIANGLE)		
 		http://jashliao.eu/wordpress/2020/04/13/fanfuhan-opencv-%e6%95%99%e5%ad%b8043-opencv-043-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8ftriangle%e6%bc%94%e7%ae%97%e6%b3%95thresh_triangle/
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學044 ~ opencv-044-二值化圖像[自適應閥值(adaptiveThreshold)]	
+		http://jashliao.eu/wordpress/2020/04/13/fanfuhan-opencv-%e6%95%99%e5%ad%b8044-opencv-044-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e8%87%aa%e9%81%a9%e6%87%89%e9%96%a5%e5%80%bc/
 		
 		
 		
