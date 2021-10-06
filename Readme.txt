@@ -130,8 +130,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學042 ~ opencv-042-二值化圖像OTSU演算法(THRESH_OTSU)	
 		http://jashliao.eu/wordpress/2020/04/13/fanfuhan-opencv-%e6%95%99%e5%ad%b8042-opencv-042-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8fotsu%e6%bc%94%e7%ae%97%e6%b3%95thresh_otsu/
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學043 ~ opencv-043-二值化圖像TRIANGLE演算法(THRESH_TRIANGLE)		
+		http://jashliao.eu/wordpress/2020/04/13/fanfuhan-opencv-%e6%95%99%e5%ad%b8043-opencv-043-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8ftriangle%e6%bc%94%e7%ae%97%e6%b3%95thresh_triangle/
 		
 		
 		
