@@ -136,10 +136,11 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學044 ~ opencv-044-二值化圖像[自適應閥值(adaptiveThreshold)]	
 		http://jashliao.eu/wordpress/2020/04/13/fanfuhan-opencv-%e6%95%99%e5%ad%b8044-opencv-044-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e8%87%aa%e9%81%a9%e6%87%89%e9%96%a5%e5%80%bc/
 		
-	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學045 ~ opencv-045-二值化圖像&去除干擾(降噪/去噪/去雜訊) [圖像二值化步驟(SOP)]	
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學045 ~ opencv-045-二值化圖像&去除干擾(降噪/去噪/去雜訊) [圖像二值化步驟(SOP)] [抓取 硬幣 輪廓/面積/邊緣 前置動作]	
 		http://jashliao.eu/wordpress/2020/04/13/fanfuhan-opencv-%e6%95%99%e5%ad%b8045-opencv-045-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e5%8e%bb%e9%99%a4%e5%b9%b2%e6%93%be%e9%99%8d%e5%99%aa-%e5%8e%bb%e5%99%aa/
-		
-		
+	
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學046 ~ opencv-046-二值化圖像 後 聯通元件(mask) 標記/尋找/計算(計數)(connectedComponents)[八方鍊碼] [機器視覺: 計算數量步驟(SOP)範例，分類的前置作業]
+		http://jashliao.eu/wordpress/2020/04/13/fanfuhan-opencv-%e6%95%99%e5%ad%b8046-opencv-046-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e8%81%af%e9%80%9a%e5%85%83%e4%bb%b6%e6%a8%99%e8%a8%98-%e5%b0%8b%e6%89%be-%e8%a8%88%e7%ae%97%e8%a8%88/
 		
 		
 		
