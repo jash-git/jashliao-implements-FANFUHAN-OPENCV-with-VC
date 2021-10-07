@@ -136,8 +136,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學044 ~ opencv-044-二值化圖像[自適應閥值(adaptiveThreshold)]	
 		http://jashliao.eu/wordpress/2020/04/13/fanfuhan-opencv-%e6%95%99%e5%ad%b8044-opencv-044-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e8%87%aa%e9%81%a9%e6%87%89%e9%96%a5%e5%80%bc/
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學045 ~ opencv-045-二值化圖像&去除干擾(降噪/去噪/去雜訊) [圖像二值化步驟(SOP)]	
+		http://jashliao.eu/wordpress/2020/04/13/fanfuhan-opencv-%e6%95%99%e5%ad%b8045-opencv-045-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e5%8e%bb%e9%99%a4%e5%b9%b2%e6%93%be%e9%99%8d%e5%99%aa-%e5%8e%bb%e5%99%aa/
 		
 		
 		
