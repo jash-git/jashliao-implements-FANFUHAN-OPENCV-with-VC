@@ -148,11 +148,13 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學048 ~ opencv-048-二值化圖像 後 連通元件(mask) 使用抓取輪廓(findContours)函數計算層次(重疊/遠近)參數，取得分類的所需資訊作業 & 使用繪製輪廓(drawContours)函數將結果呈現在畫面上方便觀看與判讀
 		http://jashliao.eu/wordpress/2020/04/15/fanfuhan-opencv-%e6%95%99%e5%ad%b8048-opencv-048-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%e4%b9%8b%e8%bc%aa%e5%bb%93%e7%99%bc%e7%8f%be/
 
-	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學049 ~ opencv-049- 彩色轉二值化圖像(直接使用Canny) 後 連通元件(mask) 使用抓取輪廓(findContours)函數計算層次(重疊/遠近)參數，取得分類的所需資訊作業 & 使用繪製輪廓外接矩形(boundingRect、minAreaRect)函數將結果呈現在畫面上方便觀看與判讀
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學049 ~ opencv-049-彩色轉二值化圖像(直接使用Canny) 後 連通元件(mask) 使用抓取輪廓(findContours)函數計算層次(重疊/遠近)參數，取得分類的所需資訊作業 & 使用繪製輪廓外接矩形(boundingRect、minAreaRect)函數將結果呈現在畫面上方便觀看與判讀
 		http://jashliao.eu/wordpress/2020/04/15/fanfuhan-opencv-%e6%95%99%e5%ad%b8049-opencv-049-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%e8%bc%aa%e5%bb%93%e5%a4%96%e6%8e%a5%e7%9f%a9%e5%bd%a2/
-
-		
-		
+		PS.目標物非同類型
+	
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學050 ~ opencv-050-彩色轉二值化圖像(直接使用Canny) 後 連通元件(mask) 使用抓取輪廓(findContours)函數計算層次(重疊/遠近)參數，取得分類的所需資訊作業 & 計算矩形面積(contourArea)與弧長(arcLengt)[簡易分類過濾]
+		http://jashliao.eu/wordpress/2020/04/15/fanfuhan-opencv-%e6%95%99%e5%ad%b8050-opencv-050-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%e7%9f%a9%e5%bd%a2%e9%9d%a2%e7%a9%8d%e8%88%87%e5%bc%a7%e9%95%b7/
+		PS.目標物為同類型
 		
 		
 		
