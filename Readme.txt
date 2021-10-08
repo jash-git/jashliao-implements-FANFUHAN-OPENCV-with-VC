@@ -160,11 +160,17 @@
 		http://jashliao.eu/wordpress/2020/04/15/fanfuhan-opencv-%e6%95%99%e5%ad%b8051-opencv-051-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%e4%bd%bf%e7%94%a8%e5%b9%be%e4%bd%95%e5%9c%96%e5%bd%a2%e8%bc%aa%e5%bb%93%e9%80%bc/
 		PS.目標物為同類型(顏色)
 		
-	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學052 ~ opencv-052-彩色轉二值化圖像(直接使用Canny) 後 連通元件(mask) 使用抓取輪廓(findContours)函數計算層次(重疊/遠近)參數，取得分類的所需資訊作業 & 使用幾何矩與橫縱比 [簡易分類過濾]
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學052 ~ opencv-052-彩色轉二值化圖像(直接使用Canny) 後 連通元件(mask) 使用抓取輪廓(findContours)函數計算層次(重疊/遠近)參數，取得分類的所需資訊作業 & 計算幾何矩與橫縱比
 		http://jashliao.eu/wordpress/2020/04/15/fanfuhan-opencv-%e6%95%99%e5%ad%b8052-opencv-052-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%ef%bc%88%e4%bd%bf%e7%94%a8%e5%b9%be%e4%bd%95%e7%9f%a9%e8%a8%88%e7%ae%97%e8%bc%aa/
 		PS.目標物非同類型(顏色)
 		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學053 ~ opencv-053-彩色轉二值化圖像(直接使用Canny) 後 連通元件(mask) 使用抓取輪廓(findContours)函數計算層次(重疊/遠近)參數，取得分類的所需資訊作業 & 計算Hu矩(HuMoments)實現 利用數學統計方式進行相似度(相似程度)比對/匹配(matchShapes) [以圖找圖/以圖搜圖] [類似用區域顏色圖片 進行圖像 前景/背景 標記/分割]
+		http://jashliao.eu/wordpress/2020/04/15/fanfuhan-opencv-%e6%95%99%e5%ad%b8053-opencv-053-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%ef%bc%88%e4%bd%bf%e7%94%a8hu%e7%9f%a9%e5%af%a6%e7%8f%be%e8%bc%aa%e5%bb%93%e5%8c%b9/
+		PS.目標物為同類型(顏色) / 統計數學分類形態學
+
+
+
+	
 
 
 	
