@@ -1,0 +1,14 @@
+﻿  VC_FANFUHAN_OPENCV056.cpp
+VC_FANFUHAN_OPENCV056.cpp(133): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+VC_FANFUHAN_OPENCV056.cpp(134): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+VC_FANFUHAN_OPENCV056.cpp(245): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+VC_FANFUHAN_OPENCV056.cpp(246): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+VC_FANFUHAN_OPENCV056.cpp(318): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+VC_FANFUHAN_OPENCV056.cpp(340): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  正在產生程式碼
+  10 of 410 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  VC_FANFUHAN_OPENCV056.vcxproj -> C:\Users\user\Desktop\jashliao-implements-FANFUHAN-OPENCV-with-VC\project_code\VC_FANFUHAN_OPENCV\x64\Release\VC_FANFUHAN_OPENCV056.exe
+  VC_FANFUHAN_OPENCV056.vcxproj -> C:\Users\user\Desktop\jashliao-implements-FANFUHAN-OPENCV-with-VC\project_code\VC_FANFUHAN_OPENCV\x64\Release\VC_FANFUHAN_OPENCV056.pdb (Full PDB)

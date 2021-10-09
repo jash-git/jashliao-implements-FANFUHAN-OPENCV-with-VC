@@ -85,7 +85,7 @@ int main()
 		vector<vector<Point>> contours1;
 		vector<vector<Point>> contours2;
 		contours_info(src, contours1);
-		contours_info(src, contours2, 80, 60);
+		contours_info(src, contours2, 80, 160);
 
 		Mat src01 = src.clone();
 
