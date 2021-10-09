@@ -172,8 +172,9 @@
 		http://jashliao.eu/wordpress/2020/04/15/fanfuhan-opencv-%e6%95%99%e5%ad%b8054-opencv-054-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%e5%b0%8d%e8%bc%aa%e5%bb%93%e5%9c%93%e8%88%87%e6%a9%a2%e5%9c%93%e6%93%ac%e5%90%88/
 		PS.目標物非同類型(顏色)		
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學055 ~ o-彩色轉二值化圖像(直接使用Canny) 後 連通元件(mask) 使用抓取輪廓(findContours)函數計算層次(重疊/遠近)參數，取得分類的所需資訊作業 & 對輪廓圓找出最適凸包檢測
+		http://jashliao.eu/wordpress/2020/04/15/fanfuhan-opencv-%E6%95%99%E5%AD%B8055-opencv-055-%E4%BA%8C%E5%80%BC%E5%8C%96%E5%9C%96%E5%83%8F%E5%88%86%E6%9E%90%E5%87%B8%E5%8C%85%E6%AA%A2%E6%B8%AC/
+		PS.目標物非同類型(顏色)
 		
 		
 		
@@ -215,7 +216,10 @@
 	
 
 
-	
+	OpenCV 常用圖像形態學運算工具 去除雜訊 / 提升連通元件(mask)品質
+		http://jashliao.eu/wordpress/2021/10/09/opencv-%e5%b8%b8%e7%94%a8%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e9%81%8b%e7%ae%97%e5%b7%a5%e5%85%b7-%e2%80%8b%e5%8e%bb%e9%99%a4%e9%9b%9c%e8%a8%8a-%e6%8f%90%e5%8d%87%e9%80%a3%e9%80%9a%e5%85%83/
+		
+		
 https://github.com/jash-git/jashliao-implements-FANFUHAN-OPENCV-with-VC
 		
 ★前言:
