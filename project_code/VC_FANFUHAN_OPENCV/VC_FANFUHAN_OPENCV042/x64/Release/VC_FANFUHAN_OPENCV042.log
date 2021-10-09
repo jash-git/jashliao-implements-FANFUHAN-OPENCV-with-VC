@@ -4,7 +4,9 @@ VC_FANFUHAN_OPENCV042.cpp(85): warning C4244: '正在初始化': 將 'double' �
 VC_FANFUHAN_OPENCV042.cpp(107): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
 VC_FANFUHAN_OPENCV042.cpp(129): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
   正在產生程式碼
-  All 321 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  318 of 321 functions (99.1%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   已完成程式碼產生
-  VC_FANFUHAN_OPENCV042.vcxproj -> C:\Users\jashliao\Desktop\GIYHUB\jashliao-implements-FANFUHAN-OPENCV-with-VC\project_code\VC_FANFUHAN_OPENCV\x64\Release\VC_FANFUHAN_OPENCV042.exe
-  VC_FANFUHAN_OPENCV042.vcxproj -> C:\Users\jashliao\Desktop\GIYHUB\jashliao-implements-FANFUHAN-OPENCV-with-VC\project_code\VC_FANFUHAN_OPENCV\x64\Release\VC_FANFUHAN_OPENCV042.pdb (Full PDB)
+  VC_FANFUHAN_OPENCV042.vcxproj -> C:\Users\user\Desktop\jashliao-implements-FANFUHAN-OPENCV-with-VC\project_code\VC_FANFUHAN_OPENCV\x64\Release\VC_FANFUHAN_OPENCV042.exe
+  VC_FANFUHAN_OPENCV042.vcxproj -> C:\Users\user\Desktop\jashliao-implements-FANFUHAN-OPENCV-with-VC\project_code\VC_FANFUHAN_OPENCV\x64\Release\VC_FANFUHAN_OPENCV042.pdb (Full PDB)

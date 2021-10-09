@@ -1,9 +1,10 @@
-﻿  VC_FANFUHAN_OPENCV029.cpp
+﻿  stdafx.cpp
+  VC_FANFUHAN_OPENCV029.cpp
 VC_FANFUHAN_OPENCV029.cpp(86): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
   正在產生程式碼
-  5 of 320 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
+  317 of 320 functions (99.1%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   已完成程式碼產生
-  VC_FANFUHAN_OPENCV029.vcxproj -> C:\Users\jashliao\Desktop\GIYHUB\jashliao-implements-FANFUHAN-OPENCV-with-VC\project_code\VC_FANFUHAN_OPENCV\x64\Release\VC_FANFUHAN_OPENCV029.exe
-  VC_FANFUHAN_OPENCV029.vcxproj -> C:\Users\jashliao\Desktop\GIYHUB\jashliao-implements-FANFUHAN-OPENCV-with-VC\project_code\VC_FANFUHAN_OPENCV\x64\Release\VC_FANFUHAN_OPENCV029.pdb (Full PDB)
+  VC_FANFUHAN_OPENCV029.vcxproj -> C:\Users\user\Desktop\jashliao-implements-FANFUHAN-OPENCV-with-VC\project_code\VC_FANFUHAN_OPENCV\x64\Release\VC_FANFUHAN_OPENCV029.exe
+  VC_FANFUHAN_OPENCV029.vcxproj -> C:\Users\user\Desktop\jashliao-implements-FANFUHAN-OPENCV-with-VC\project_code\VC_FANFUHAN_OPENCV\x64\Release\VC_FANFUHAN_OPENCV029.pdb (Full PDB)
