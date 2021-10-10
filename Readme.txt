@@ -188,7 +188,9 @@
 		http://jashliao.eu/wordpress/2020/04/16/fanfuhan-opencv-%e6%95%99%e5%ad%b8058-opencv-058-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%ef%bc%88%e5%b0%8b%e6%89%be%e6%9c%80%e5%a4%a7%e5%85%a7%e6%8e%a5%e5%9c%93%ef%bc%89/
 		PS.目標物為同類型(顏色)	
 		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學059 ~ opencv-059-彩色轉二值化圖像(直接使用Canny) 後 直接用霍夫直線尋找/偵測/檢測(HoughLines)
+		http://jashliao.eu/wordpress/2020/04/16/fanfuhan-opencv-%e6%95%99%e5%ad%b8059-opencv-059-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%ef%bc%88%e9%9c%8d%e5%a4%ab%e7%9b%b4%e7%b7%9a%e6%aa%a2%e6%b8%ac%ef%bc%89/
+		PS.目標物為同類型(顏色)
 		
 		
 		
