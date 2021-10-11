@@ -206,7 +206,7 @@
 		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學063 ~ opencv-063-opencv-061-彩色轉二值化圖像(直接使用Canny) 後 用圖像形態學 膨脹(dilate) 與 腐蝕(erode) 強化/獲取 連通元件(mask) / 用霍夫圓形尋找/偵測/檢測(HoughCircles) [機器視覺基礎 - 數錢/數硬幣個數]
 		http://jashliao.eu/wordpress/2020/04/16/fanfuhan-opencv-%e6%95%99%e5%ad%b8063-opencv-063-%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e8%86%a8%e8%84%b9%e8%88%87%e8%85%90%e8%9d%95-%e7%8d%b2%e5%8f%96%e7%b5%90%e6%a7%8b%e5%85%83%e7%b4%a0/
-		PS.目標物非同類型(顏色)	
+		PS.目標物為同類型(顏色)
 		
 		
 		
