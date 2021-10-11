@@ -200,8 +200,9 @@
 		http://jashliao.eu/wordpress/2020/04/16/fanfuhan-opencv-%E6%95%99%E5%AD%B8061-opencv-061-%E4%BA%8C%E5%80%BC%E5%8C%96%E5%9C%96%E5%83%8F%E5%88%86%E6%9E%90%EF%BC%88%E9%9C%8D%E5%A4%AB%E5%9C%93%E5%BD%A2%E5%B0%8B%E6%89%BE-%E5%81%B5%E6%B8%AC/
 		PS.目標物非同類型(顏色)		
 		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學062 ~ opencv-062-用圖像形態學 膨脹(erode) 與 腐蝕(erode) 強化/凸顯 彩色/灰階/黑白 圖像中 連通元件(mask) / 特徵值
+		http://jashliao.eu/wordpress/2020/04/16/fanfuhan-opencv-%e6%95%99%e5%ad%b8062-opencv-062-%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e8%86%a8%e8%84%b9%e8%88%87%e8%85%90%e8%9d%95/
+		PS.目標物非同類型(顏色)	
 		
 		
 		
