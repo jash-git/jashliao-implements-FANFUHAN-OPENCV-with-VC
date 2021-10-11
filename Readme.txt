@@ -133,7 +133,7 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學043 ~ opencv-043-二值化圖像TRIANGLE演算法(THRESH_TRIANGLE)		
 		http://jashliao.eu/wordpress/2020/04/13/fanfuhan-opencv-%e6%95%99%e5%ad%b8043-opencv-043-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8ftriangle%e6%bc%94%e7%ae%97%e6%b3%95thresh_triangle/
 		
-	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學044 ~ opencv-044-二值化圖像[自適應閥值(adaptiveThreshold)]	
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學044 ~ opencv-044-二值化圖像[自適應閥值(adaptiveThreshold)](實作簡易人像素描圖)	
 		http://jashliao.eu/wordpress/2020/04/13/fanfuhan-opencv-%e6%95%99%e5%ad%b8044-opencv-044-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e8%87%aa%e9%81%a9%e6%87%89%e9%96%a5%e5%80%bc/
 		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學045 ~ opencv-045-二值化圖像&去除干擾(降噪/去噪/去雜訊) [圖像二值化步驟(SOP)] [抓取 硬幣 輪廓/面積/邊緣 前置動作]	
@@ -196,7 +196,9 @@
 		http://jashliao.eu/wordpress/2020/04/16/fanfuhan-opencv-%e6%95%99%e5%ad%b8060-opencv-060-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%ef%bc%88%e9%9c%8d%e5%a4%ab%e7%9b%b4%e7%b7%9a%e6%aa%a2%e6%b8%ac%e4%ba%8c%ef%bc%89/
 		PS.目標物非同類型(顏色)
 		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學061 ~ opencv-061-彩色轉二值化圖像(直接使用Canny) 後 直接用霍夫圓形尋找/偵測/檢測(HoughCircles) [機器視覺基礎 - 數錢/數硬幣個數]
+		http://jashliao.eu/wordpress/2020/04/16/fanfuhan-opencv-%E6%95%99%E5%AD%B8061-opencv-061-%E4%BA%8C%E5%80%BC%E5%8C%96%E5%9C%96%E5%83%8F%E5%88%86%E6%9E%90%EF%BC%88%E9%9C%8D%E5%A4%AB%E5%9C%93%E5%BD%A2%E5%B0%8B%E6%89%BE-%E5%81%B5%E6%B8%AC/
+		PS.目標物非同類型(顏色)		
 		
 		
 		
