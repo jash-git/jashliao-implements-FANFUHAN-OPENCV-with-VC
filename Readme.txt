@@ -208,9 +208,9 @@
 		http://jashliao.eu/wordpress/2020/04/16/fanfuhan-opencv-%e6%95%99%e5%ad%b8063-opencv-063-%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e8%86%a8%e8%84%b9%e8%88%87%e8%85%90%e8%9d%95-%e7%8d%b2%e5%8f%96%e7%b5%90%e6%a7%8b%e5%85%83%e7%b4%a0/
 		PS.目標物為同類型(顏色)
 		
-		
-		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學064 ~ opencv-064-彩色轉二值化圖像(直接使用adaptiveThreshold) 後 用圖像形態學開操作(morphologyEx)去除白色雜訊 強化/獲取 連通元件(mask)
+		http://jashliao.eu/wordpress/2020/04/16/fanfuhan-opencv-%e6%95%99%e5%ad%b8064-opencv-064-%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e9%96%8b%e6%93%8d%e4%bd%9c/
+		PS.目標物和背景一樣[前景/背景相同]
 		
 		
 		
