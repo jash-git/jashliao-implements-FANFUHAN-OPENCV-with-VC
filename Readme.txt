@@ -216,7 +216,9 @@
 		http://jashliao.eu/wordpress/2020/04/16/fanfuhan-opencv-%e6%95%99%e5%ad%b8065-opencv-065-%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e9%96%89%e6%93%8d%e4%bd%9c/
 		PS.目標物為同類型(顏色)
 		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學066 ~ opencv-066-彩色轉二值化圖像(直接使用Canny) 後 用圖像形態學開閉操作篩選連通元件(mask)應用演示範例(驗證開閉操作可以互換)
+		http://jashliao.eu/wordpress/2020/04/16/fanfuhan-opencv-%e6%95%99%e5%ad%b8066-opencv-066-%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e9%96%8b%e9%96%89%e6%93%8d%e4%bd%9c%e6%99%82%e5%80%99%e7%b5%90%e6%a7%8b%e5%85%83%e7%b4%a0%e6%87%89/
+		PS.目標物為同類型(顏色)
 		
 		
 		
