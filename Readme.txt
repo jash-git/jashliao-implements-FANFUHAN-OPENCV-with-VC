@@ -220,7 +220,9 @@
 		http://jashliao.eu/wordpress/2020/04/16/fanfuhan-opencv-%e6%95%99%e5%ad%b8066-opencv-066-%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e9%96%8b%e9%96%89%e6%93%8d%e4%bd%9c%e6%99%82%e5%80%99%e7%b5%90%e6%a7%8b%e5%85%83%e7%b4%a0%e6%87%89/
 		PS.目標物為同類型(顏色)
 		
-		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學067 ~ opencv-067-彩色轉二值化圖像(直接使用Canny) 後 用圖像形態學頂帽操作(morphologyEx)提取/抓取/尋找/標記 圖像中微小部分
+		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8067-opencv-067-%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e9%a0%82%e5%b8%bd%e6%93%8d%e4%bd%9c-%e6%8f%90%e5%8f%96-%e6%8a%93%e5%8f%96-%e5%b0%8b%e6%89%be/
+		PS.目標物為同類型(顏色)
 		
 		
 		
