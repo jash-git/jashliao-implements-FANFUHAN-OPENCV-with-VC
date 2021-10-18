@@ -227,7 +227,20 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學068 ~ opencv-068-彩色轉二值化圖像(直接使用Canny) 後 用圖像形態學黑帽操作(morphologyEx)提取/抓取/尋找/標記 圖像中小輪廓
 		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8068-opencv-068-%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e9%bb%91%e5%b8%bd%e6%93%8d%e4%bd%9c/
 		PS.目標物為同類型(顏色)
-		
+	
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學069 ~ opencv-069-彩色轉灰階影圖像後 後 用圖像形態學梯度操作(morphologyEx)提取/抓取/尋找/標記 圖像中輪廓(邊緣)
+		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8069-opencv-069-%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e5%9c%96%e5%83%8f%e6%a2%af%e5%ba%a6/
+
+
+
+
+
+
+
+
+
+
+	
 		
 		
 		
