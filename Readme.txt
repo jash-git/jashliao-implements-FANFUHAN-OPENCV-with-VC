@@ -236,9 +236,9 @@
 		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8070-opencv-70-%e5%bd%a2%e6%85%8b%e5%ad%b8%e6%87%89%e7%94%a8%e4%bd%bf%e7%94%a8%e5%9f%ba%e6%9c%ac%e6%a2%af%e5%ba%a6%e5%af%a6%e7%8f%be%e8%bc%aa%e5%bb%93%e5%88%86/
 		PS.目標物為同類型(顏色)
 
-
-
-
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學071 ~ opencv-071-彩色轉二值化圖像(直接使用Canny) 後 用圖像形態學擊中&擊不中(morphologyEx)實現找出繩網中繩結位置
+		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8071-opencv-071-%e5%bd%a2%e6%85%8b%e5%ad%b8%e6%93%8d%e4%bd%9c%e6%93%8a%e4%b8%ad%e6%93%8a%e4%b8%8d%e4%b8%ad-%e6%89%be%e5%87%ba%e7%b9%a9%e7%b6%b2%e4%b8%ad%e7%b9%a9/
+		PS.目標物為同類型(顏色)
 
 
 	
