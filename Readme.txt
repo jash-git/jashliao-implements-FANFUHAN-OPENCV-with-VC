@@ -18,12 +18,21 @@
 		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學005 ~ opencv-005-像素(pixel)計算操作 [圖片合成/融合 (加/減/乘/除) ]	
 		http://jashliao.eu/wordpress/2020/02/13/fanfuhan-opencv-%e6%95%99%e5%ad%b8005-opencv-005-%e5%83%8f%e7%b4%a0pixel%e8%a8%88%e7%ae%97%e6%93%8d%e4%bd%9c-%e5%9c%96%e7%89%87%e5%90%88%e6%88%90/
-
+		圖像相加: add(src1, src2, add_result);
+		圖像戴權種值相加(透明效果): addWeighted(src1, 0.5, src2, (1.0 – 0.5), 0.0, add_weight_result);
+		圖像相減: subtract(src1, src2, sub_result);
+		圖像相乘: multiply(src1, src2, mul_result);
+		圖像相除: divide(src1, src2, div_result);
+		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學006 ~ opencv-006-Look Up Table(LUT)查找表的使用 [顏色轉換(偽顏色)/手寫灰階轉二值化]	
 		http://jashliao.eu/wordpress/2020/02/14/fanfuhan-opencv-%e6%95%99%e5%ad%b8006-opencv-006-look-up-tablelut%e6%9f%a5%e6%89%be%e8%a1%a8%e7%9a%84%e4%bd%bf%e7%94%a8-%e9%a1%8f%e8%89%b2%e8%bd%89%e6%8f%9b/
 		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學007 ~ opencv-007-圖像像素之邏輯(AND、OR、XOR、NOT)運算操作 [使用顏色特性，圖片預先處理，藉此凸顯/過濾特徵點]
 		http://jashliao.eu/wordpress/2020/02/17/fanfuhan-opencv-%e6%95%99%e5%ad%b8007-opencv-007-%e5%9c%96%e5%83%8f%e5%83%8f%e7%b4%a0%e4%b9%8b%e9%82%8f%e8%bc%af%e6%93%8d%e4%bd%9c-%e4%bd%bf%e7%94%a8%e9%a1%8f%e8%89%b2%e7%89%b9%e6%80%a7%ef%bc%8c/
+		bitwise_and(src1, src2, dst1);//進行AND運算
+		bitwise_xor(src1, src2, dst2);//XOR運算
+		bitwise_or(src1, src2, dst3);//OR運算
+		bitwise_not(src, dst);//NOT運算
 		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學008 ~ opencv-008-圖像顏色通道(RGB)的分離(拆分)與合併(組合) [過濾特定顏色干擾訊號]	
 		http://jashliao.eu/wordpress/2020/02/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8008-opencv-008-%e5%9c%96%e5%83%8f%e9%80%9a%e9%81%93%e7%9a%84%e5%88%86%e9%9b%a2%e8%88%87%e5%90%88%e4%bd%b5/
@@ -51,6 +60,7 @@
 		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學016 ~ opencv-016-圖像ROI與ROI操作 [ 簡單使用HSV產生ROI實作 提取 前景&後景 分離 去背/替換背景]
 		http://jashliao.eu/wordpress/2020/03/11/fanfuhan-opencv-%e6%95%99%e5%ad%b8016-opencv-016-%e5%9c%96%e5%83%8froi%e8%88%87roi%e6%93%8d%e4%bd%9c%e7%b0%a1%e5%96%ae%e4%bd%bf%e7%94%a8hsv%e7%94%a2%e7%94%9froi%e5%af%a6%e4%bd%9c-%e5%89%8d%e5%be%8c/
+		PS. HSV 表 (HSV 和 RGB 對照表)
 		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學017 ~ opencv-017-計算/顯示 彩色/灰階 對應的直方圖
 		http://jashliao.eu/wordpress/2020/03/12/fanfuhan-opencv-%e6%95%99%e5%ad%b8017-opencv-017-%e5%bd%a9%e8%89%b2%e7%9b%b4%e6%96%b9%e5%9c%96/
@@ -248,7 +258,13 @@
 		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8073-opencv-073-%e4%ba%8c%e5%80%bc%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%ef%bc%88%e7%bc%ba%e9%99%b7%e6%aa%a2%e6%b8%ac%e4%ba%8c%ef%bc%89/
 		PS.目標物為同類型(顏色)
 
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學074 ~ opencv-074-彩色轉二值化圖像(直接使用Canny) 後 提取最大 輪廓(findContours)、繪製輪廓(drawContours)與計算輪廓關鍵點(approxPolyDP)
+		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8074-opencv-074-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%ef%bc%88%e6%8f%90%e5%8f%96%e6%9c%80%e5%a4%a7%e8%bc%aa%e5%bb%93%e8%88%87%e7%b7%a8/
+		PS.目標物為同類型(顏色)
 		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學075 ~ OpenCV-075-使用簡單HSV產生浮水印ROI 進行去水印/修復(inpaint)圖像工作	
+		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8075-opencv-075-%e5%9c%96%e5%83%8f%e5%8e%bb%e6%b0%b4%e5%8d%b0-%e4%bf%ae%e5%be%a9/
+		PS.目標物為同類型(顏色)
 		
 		
 
