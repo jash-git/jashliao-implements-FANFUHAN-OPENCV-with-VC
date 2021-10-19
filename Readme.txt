@@ -210,7 +210,7 @@
 		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學064 ~ opencv-064-彩色轉二值化圖像(直接使用adaptiveThreshold) 後 用圖像形態學開操作(morphologyEx)去除白色雜訊 強化/獲取 連通元件(mask)
 		http://jashliao.eu/wordpress/2020/04/16/fanfuhan-opencv-%e6%95%99%e5%ad%b8064-opencv-064-%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e9%96%8b%e6%93%8d%e4%bd%9c/
-		PS.目標物和背景一樣[前景/背景相同]
+		PS.目標物和背景一樣[前景/背景相同] / 水泥 不平 缺陷 入門 提取/抓取/尋找/標記
 			
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學065 ~ opencv-065-彩色轉二值化圖像(直接使用Canny) 後 用圖像形態學閉操作(morphologyEx)去除黑色雜訊 強化/獲取 連通元件(mask)
 		http://jashliao.eu/wordpress/2020/04/16/fanfuhan-opencv-%e6%95%99%e5%ad%b8065-opencv-065-%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e9%96%89%e6%93%8d%e4%bd%9c/
@@ -240,14 +240,27 @@
 		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8071-opencv-071-%e5%bd%a2%e6%85%8b%e5%ad%b8%e6%93%8d%e4%bd%9c%e6%93%8a%e4%b8%ad%e6%93%8a%e4%b8%8d%e4%b8%ad-%e6%89%be%e5%87%ba%e7%b9%a9%e7%b6%b2%e4%b8%ad%e7%b9%a9/
 		PS.目標物為同類型(顏色)
 
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學072 ~ opencv-072-彩色轉二值化圖像(直接使用Canny) 後 用抓取輪廓(findContours)函數+圖像形態學實現缺陷檢測一
+		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8072-opencv-072-%e4%ba%8c%e5%80%bc%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%ef%bc%88%e7%bc%ba%e9%99%b7%e6%aa%a2%e6%b8%ac%e4%b8%80%ef%bc%89/
+		PS.目標物為同類型(顏色)
+		
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學073 ~ opencv-073-彩色轉二值化圖像(直接使用Canny) 後 用抓取輪廓(findContours)函數+圖像形態學實現缺陷檢測二
+		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8073-opencv-073-%e4%ba%8c%e5%80%bc%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%ef%bc%88%e7%bc%ba%e9%99%b7%e6%aa%a2%e6%b8%ac%e4%ba%8c%ef%bc%89/
+		PS.目標物為同類型(顏色)
 
-	
-		
 		
 		
 		
 
-	
+
+
+
+
+
+
+
+
+		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學120 ~ opencv-120-二維碼(QrCode) 檢測 與 解析/識別
 		http://jashliao.eu/wordpress/2020/04/29/fanfuhan-opencv-%e6%95%99%e5%ad%b8120-opencv-120-%e4%ba%8c%e7%b6%ad%e7%a2%bc%e6%aa%a2%e6%b8%ac%e8%88%87%e8%ad%98%e5%88%a5/
 
