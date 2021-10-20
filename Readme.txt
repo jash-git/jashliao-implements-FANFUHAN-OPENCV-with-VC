@@ -261,14 +261,20 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學074 ~ opencv-074-彩色轉二值化圖像(直接使用Canny) 後 提取最大 輪廓(findContours)、繪製輪廓(drawContours)與計算輪廓關鍵點(approxPolyDP)
 		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8074-opencv-074-%e4%ba%8c%e5%80%bc%e5%8c%96%e5%9c%96%e5%83%8f%e5%88%86%e6%9e%90%ef%bc%88%e6%8f%90%e5%8f%96%e6%9c%80%e5%a4%a7%e8%bc%aa%e5%bb%93%e8%88%87%e7%b7%a8/
 		PS.目標物為同類型(顏色)
-		
+		OPENCV二值化種類方法選擇：
+			全局閾值二值化
+			基於形態學梯度二值化
+			inRange二值化(HSV)
+			基於Canny邊緣二值化
+			自適應二值化
+			
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學075 ~ OpenCV-075-使用簡單HSV產生浮水印ROI 進行去水印/修復(inpaint)圖像工作	
 		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8075-opencv-075-%e5%9c%96%e5%83%8f%e5%8e%bb%e6%b0%b4%e5%8d%b0-%e4%bf%ae%e5%be%a9/
 		PS.目標物為同類型(顏色)
 		
-		
-
-
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學076 ~ opencv-076-色轉二值化圖像(直接使用Canny) 後 提取最大 輪廓(findContours)、繪製輪廓(drawContours)與計算輪廓關鍵點(approxPolyDP)最後使用透視變換(findHomography / warpPerspective)將掃描圖像的ROI轉正
+		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8076-opencv-076-%e5%9c%96%e5%83%8f%e9%80%8f%e8%a6%96%e8%ae%8a%e6%8f%9b%e6%87%89%e7%94%a8/
+		PS.目標物為同類型(顏色)
 
 
 
