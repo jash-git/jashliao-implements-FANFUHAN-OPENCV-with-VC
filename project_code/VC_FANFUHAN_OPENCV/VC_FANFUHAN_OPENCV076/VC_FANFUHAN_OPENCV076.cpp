@@ -172,8 +172,6 @@ int main()
 		imshow("result", result);
 
 		waitKey(0);
-
-		waitKey(0);
 	}
 	return 0;
 }

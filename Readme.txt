@@ -276,8 +276,10 @@
 		http://jashliao.eu/wordpress/2020/04/20/fanfuhan-opencv-%e6%95%99%e5%ad%b8076-opencv-076-%e5%9c%96%e5%83%8f%e9%80%8f%e8%a6%96%e8%ae%8a%e6%8f%9b%e6%87%89%e7%94%a8/
 		PS.目標物為同類型(顏色)
 
-
-
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學077 ~ opencv-077-視頻(影片)讀取與圖像處理
+		http://jashliao.eu/wordpress/2020/04/21/fanfuhan-opencv-%e6%95%99%e5%ad%b8077-opencv-077-%e8%a6%96%e9%a0%bb%e8%ae%80%e5%8f%96%e8%88%87%e5%9c%96%e5%83%8f%e8%99%95%e7%90%86/
+		
+		
 
 
 
