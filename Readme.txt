@@ -279,8 +279,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學077 ~ opencv-077-視頻(影片)讀取與圖像處理
 		http://jashliao.eu/wordpress/2020/04/21/fanfuhan-opencv-%e6%95%99%e5%ad%b8077-opencv-077-%e8%a6%96%e9%a0%bb%e8%ae%80%e5%8f%96%e8%88%87%e5%9c%96%e5%83%8f%e8%99%95%e7%90%86/
 		
-		
-
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學078 ~ opencv-078-使用簡單HSV產生ROI實作 提取 前景&後景 分離 去背/替換背景進而達到識別(尋找/標記)與跟踪(鎖定/定位)視頻(影片)中的特定顏色對象
+		http://jashliao.eu/wordpress/2020/04/22/fanfuhan-opencv-%e6%95%99%e5%ad%b8078-opencv-078-%e8%ad%98%e5%88%a5%e5%b0%8b%e6%89%be-%e6%a8%99%e8%a8%98%e8%88%87%e8%b7%9f%e8%b8%aa%e9%8e%96%e5%ae%9a-%e5%ae%9a%e4%bd%8d%e8%a6%96%e9%a0%bb/
 
 
 
