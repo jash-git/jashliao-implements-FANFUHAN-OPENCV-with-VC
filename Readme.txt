@@ -281,8 +281,16 @@
 		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學078 ~ opencv-078-使用簡單HSV產生ROI實作 提取 前景&後景 分離 去背/替換背景進而達到識別(尋找/標記)與跟踪(鎖定/定位)視頻(影片)中的特定顏色對象
 		http://jashliao.eu/wordpress/2020/04/22/fanfuhan-opencv-%e6%95%99%e5%ad%b8078-opencv-078-%e8%ad%98%e5%88%a5%e5%b0%8b%e6%89%be-%e6%a8%99%e8%a8%98%e8%88%87%e8%b7%9f%e8%b8%aa%e9%8e%96%e5%ae%9a-%e5%ae%9a%e4%bd%8d%e8%a6%96%e9%a0%bb/
+		PS.目標物為同類型(顏色)
+
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學079 ~ opencv-079-視頻(影片)分析 ~ 背景和前景的提取/抓取(createBackgroundSubtractorMOG2)
+		http://jashliao.eu/wordpress/2020/04/22/fanfuhan-opencv-%E6%95%99%E5%AD%B8079-opencv-079-%E8%A6%96%E9%A0%BB%E5%88%86%E6%9E%90%E8%83%8C%E6%99%AF%E5%92%8C%E5%89%8D%E6%99%AF%E7%9A%84%E6%8F%90%E5%8F%96-%E6%8A%93%E5%8F%96/
 
 
+
+
+
+		
 
 		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學120 ~ opencv-120-二維碼(QrCode) 檢測 與 解析/識別
