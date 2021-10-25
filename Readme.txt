@@ -286,11 +286,35 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學079 ~ opencv-079-視頻(影片)分析 ~ 背景和前景的提取/抓取(createBackgroundSubtractorMOG2)
 		http://jashliao.eu/wordpress/2020/04/22/fanfuhan-opencv-%E6%95%99%E5%AD%B8079-opencv-079-%E8%A6%96%E9%A0%BB%E5%88%86%E6%9E%90%E8%83%8C%E6%99%AF%E5%92%8C%E5%89%8D%E6%99%AF%E7%9A%84%E6%8F%90%E5%8F%96-%E6%8A%93%E5%8F%96/
 
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學080 ~ opencv-080-視頻(影片)分析 ~ 背景和前景的提取/抓取(createBackgroundSubtractorMOG2)並將移動區域框選出來
+		http://jashliao.eu/wordpress/2020/04/22/fanfuhan-opencv-%e6%95%99%e5%ad%b8080-opencv-080-%e8%a6%96%e9%a0%bb%e5%88%86%e6%9e%90%e8%83%8c%e6%99%af%e6%b6%88%e9%99%a4%e8%88%87%e5%89%8d%e6%99%afroi%e6%8f%90%e5%8f%96-%e6%8a%93%e5%8f%96/
+		步驟(SOP):
+			初始化背景建模對象GMM
+			讀取視頻一幀
+			使用背景建模消除生成mask
+			對mask進行輪廓分析提取ROI
+			繪製ROI對象
+	
+	
+
+
+
+	
+
+	
 
 
 
 
-		
+
+
+
+
+
+
+
+
+	
 
 		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學120 ~ opencv-120-二維碼(QrCode) 檢測 與 解析/識別
