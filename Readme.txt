@@ -295,7 +295,8 @@
 			對mask進行輪廓分析提取ROI
 			繪製ROI對象
 	
-	
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學081 ~ opencv-081-圖像轉灰階之後使用Harris檢測(cornerHarris)進行角點檢測/標記/定位/尋找
+		http://jashliao.eu/wordpress/2020/04/22/fanfuhan-opencv-%e6%95%99%e5%ad%b8081-opencv-081-%e8%a7%92%e9%bb%9e%e6%aa%a2%e6%b8%ac%ef%bc%88harris%e8%a7%92%e9%bb%9e%e6%aa%a2%e6%b8%ac-%e6%a8%99%e8%a8%98-%e5%ae%9a%e4%bd%8d-%e5%b0%8b%e6%89%be/
 
 
 
