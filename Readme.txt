@@ -321,6 +321,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學120 ~ opencv-120-二維碼(QrCode) 檢測 與 解析/識別
 		http://jashliao.eu/wordpress/2020/04/29/fanfuhan-opencv-%e6%95%99%e5%ad%b8120-opencv-120-%e4%ba%8c%e7%b6%ad%e7%a2%bc%e6%aa%a2%e6%b8%ac%e8%88%87%e8%ad%98%e5%88%a5/
 
+	jashliao 用 VC++ 實現 opencv-121 ~ 一行代碼實現灰色鉛筆劃、彩色鉛筆劃(pencilSketch)和卡通畫(stylization)效果
+	
 	OpenCV 常用圖像形態學運算工具 去除雜訊 / 提升連通元件(mask)品質
 		http://jashliao.eu/wordpress/2021/10/09/opencv-%e5%b8%b8%e7%94%a8%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e9%81%8b%e7%ae%97%e5%b7%a5%e5%85%b7-%e2%80%8b%e5%8e%bb%e9%99%a4%e9%9b%9c%e8%a8%8a-%e6%8f%90%e5%8d%87%e9%80%a3%e9%80%9a%e5%85%83/
 		
