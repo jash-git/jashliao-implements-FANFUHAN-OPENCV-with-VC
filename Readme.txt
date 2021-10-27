@@ -298,8 +298,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學081 ~ opencv-081-圖像轉灰階之後使用Harris檢測(cornerHarris)進行角點檢測/標記/定位/尋找
 		http://jashliao.eu/wordpress/2020/04/22/fanfuhan-opencv-%e6%95%99%e5%ad%b8081-opencv-081-%e8%a7%92%e9%bb%9e%e6%aa%a2%e6%b8%ac%ef%bc%88harris%e8%a7%92%e9%bb%9e%e6%aa%a2%e6%b8%ac-%e6%a8%99%e8%a8%98-%e5%ae%9a%e4%bd%8d-%e5%b0%8b%e6%89%be/
 
-
-
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學082 ~ opencv-082-視頻(影片)擷取圖像轉灰階之後使用shi-tomas檢測(goodFeaturesToTrack)進行角點檢測/標記/定位/尋找
+		http://jashliao.eu/wordpress/2020/04/23/fanfuhan-opencv-%e6%95%99%e5%ad%b8082-opencv-082-%e8%a7%92%e9%bb%9e%e6%aa%a2%e6%b8%acshi-tomas%e8%a7%92%e9%bb%9e%e6%aa%a2%e6%b8%ac-%e6%a8%99%e8%a8%98-%e5%ae%9a%e4%bd%8d-%e5%b0%8b%e6%89%be/
 	
 
 	
@@ -322,7 +322,8 @@
 		http://jashliao.eu/wordpress/2020/04/29/fanfuhan-opencv-%e6%95%99%e5%ad%b8120-opencv-120-%e4%ba%8c%e7%b6%ad%e7%a2%bc%e6%aa%a2%e6%b8%ac%e8%88%87%e8%ad%98%e5%88%a5/
 
 	jashliao 用 VC++ 實現 opencv-121 ~ 一行代碼實現灰色鉛筆劃、彩色鉛筆劃(pencilSketch)和卡通畫(stylization)效果
-	
+		http://jashliao.eu/wordpress/2021/10/27/jashliao-%e7%94%a8-vc-%e5%af%a6%e7%8f%be-opencv-121-%e4%b8%80%e8%a1%8c%e4%bb%a3%e7%a2%bc%e5%af%a6%e7%8f%be%e7%81%b0%e8%89%b2%e9%89%9b%e7%ad%86%e5%8a%83%e3%80%81%e5%bd%a9%e8%89%b2%e9%89%9b%e7%ad%86/
+		
 	OpenCV 常用圖像形態學運算工具 去除雜訊 / 提升連通元件(mask)品質
 		http://jashliao.eu/wordpress/2021/10/09/opencv-%e5%b8%b8%e7%94%a8%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e9%81%8b%e7%ae%97%e5%b7%a5%e5%85%b7-%e2%80%8b%e5%8e%bb%e9%99%a4%e9%9b%9c%e8%a8%8a-%e6%8f%90%e5%8d%87%e9%80%a3%e9%80%9a%e5%85%83/
 		
