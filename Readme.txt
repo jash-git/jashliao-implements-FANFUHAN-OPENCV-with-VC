@@ -301,7 +301,8 @@
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學082 ~ opencv-082-視頻(影片)擷取圖像轉灰階之後使用shi-tomas檢測(goodFeaturesToTrack)進行角點檢測/標記/定位/尋找
 		http://jashliao.eu/wordpress/2020/04/23/fanfuhan-opencv-%e6%95%99%e5%ad%b8082-opencv-082-%e8%a7%92%e9%bb%9e%e6%aa%a2%e6%b8%acshi-tomas%e8%a7%92%e9%bb%9e%e6%aa%a2%e6%b8%ac-%e6%a8%99%e8%a8%98-%e5%ae%9a%e4%bd%8d-%e5%b0%8b%e6%89%be/
 	
-
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學083 ~ opencv-083-視頻(影片)擷取圖像轉灰階之後使用shi-tomas檢測(goodFeaturesToTrack)進行檢測之後再利用亞像素級別(TermCriteria)計算出精細更正確的角點位置進行標記/定位
+		http://jashliao.eu/wordpress/2020/04/23/fanfuhan-opencv-%e6%95%99%e5%ad%b8083-opencv-083-%e8%a7%92%e9%bb%9e%e6%aa%a2%e6%b8%ac%e4%ba%9e%e5%83%8f%e7%b4%a0%e7%b4%9a%e5%88%a5%e8%a7%92%e9%bb%9e%e6%aa%a2%e6%b8%ac-%e6%a8%99%e8%a8%98-%e5%ae%9a/
 	
 
 
