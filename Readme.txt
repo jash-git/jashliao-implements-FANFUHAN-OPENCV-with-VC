@@ -306,11 +306,16 @@
 	
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學084 ~ opencv-084-視頻(影片)擷取圖像轉灰階之後使用shi-tomas檢測(goodFeaturesToTrack)進行檢測之後針對移動對象的KLT光流跟踪/5偵測算法
 		http://jashliao.eu/wordpress/2020/04/23/fanfuhan-opencv-%e6%95%99%e5%ad%b8084-opencv-084-%e8%a6%96%e9%a0%bb%e5%88%86%e6%9e%90%ef%bc%88%e7%a7%bb%e5%8b%95%e5%b0%8d%e8%b1%a1%e7%9a%84klt%e5%85%89%e6%b5%81%e8%b7%9f%e8%b8%aa-5%e5%81%b5%e6%b8%ac/
-		
+	
+	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學085 ~ opencv-085-視頻(影片)擷取圖像轉灰階之後使用shi-tomas檢測(goodFeaturesToTrack)進行檢測之後針對移動對象的KLT光流跟踪/5偵測算法並刪除靜止點與定位跟踪軌跡
+		http://jashliao.eu/wordpress/2020/04/23/fanfuhan-opencv-%e6%95%99%e5%ad%b8085-opencv-085-%e8%a6%96%e9%a0%bb%e5%88%86%e6%9e%90%ef%bc%88%e7%a7%bb%e5%8b%95%e5%b0%8d%e8%b1%a1%e7%9a%84klt%e5%85%89%e6%b5%81%e8%b7%9f%e8%b8%aa%e7%ae%97%e6%b3%95_/
+
+	jashliao 用 VC++ 實現fanfuhan OpenCV 教學086 ~ opencv-086-視頻(影片)進行稠密光流分析(calcOpticalFlowFarneback)
+		http://jashliao.eu/wordpress/2020/04/23/fanfuhan-opencv-%e6%95%99%e5%ad%b8086-opencv-086-%e8%a6%96%e9%a0%bb%e5%88%86%e6%9e%90%e7%a8%a0%e5%af%86%e5%85%89%e6%b5%81%e5%88%86%e6%9e%90/
+	
 
 
-
-
+	
 
 
 
