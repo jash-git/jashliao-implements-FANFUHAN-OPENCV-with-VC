@@ -330,7 +330,10 @@
 
 	jashliao 用 VC++ 實現 opencv-121 ~ 一行代碼實現灰色鉛筆劃、彩色鉛筆劃(pencilSketch)和卡通畫(stylization)效果
 		http://jashliao.eu/wordpress/2021/10/27/jashliao-%e7%94%a8-vc-%e5%af%a6%e7%8f%be-opencv-121-%e4%b8%80%e8%a1%8c%e4%bb%a3%e7%a2%bc%e5%af%a6%e7%8f%be%e7%81%b0%e8%89%b2%e9%89%9b%e7%ad%86%e5%8a%83%e3%80%81%e5%bd%a9%e8%89%b2%e9%89%9b%e7%ad%86/
-		
+	
+	jashliao 用 VC++ 實現 opencv-122 ~ 兩張圖像垂直串接(合併)成一張大圖(為了克服Chrome網頁轉圖像外掛GoFullPage，當網頁內容太長會自動分割的問題)
+		http://jashliao.eu/wordpress/2021/11/10/jashliao-%e7%94%a8-vc-%e5%af%a6%e7%8f%be-opencv-122-%e5%85%a9%e5%bc%b5%e5%9c%96%e5%83%8f%e5%9e%82%e7%9b%b4%e4%b8%b2%e6%8e%a5%e5%90%88%e4%bd%b5%e6%88%90%e4%b8%80%e5%bc%b5%e5%a4%a7%e5%9c%96/
+	
 	OpenCV 常用圖像形態學運算工具 去除雜訊 / 提升連通元件(mask)品質
 		http://jashliao.eu/wordpress/2021/10/09/opencv-%e5%b8%b8%e7%94%a8%e5%9c%96%e5%83%8f%e5%bd%a2%e6%85%8b%e5%ad%b8%e9%81%8b%e7%ae%97%e5%b7%a5%e5%85%b7-%e2%80%8b%e5%8e%bb%e9%99%a4%e9%9b%9c%e8%a8%8a-%e6%8f%90%e5%8d%87%e9%80%a3%e9%80%9a%e5%85%83/
 		
