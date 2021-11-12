@@ -313,10 +313,14 @@
 	jashliao 用 VC++ 實現fanfuhan OpenCV 教學086 ~ opencv-086-視頻(影片)進行稠密光流分析(calcOpticalFlowFarneback)
 		http://jashliao.eu/wordpress/2020/04/23/fanfuhan-opencv-%e6%95%99%e5%ad%b8086-opencv-086-%e8%a6%96%e9%a0%bb%e5%88%86%e6%9e%90%e7%a8%a0%e5%af%86%e5%85%89%e6%b5%81%e5%88%86%e6%9e%90/
 	
-
-
-	
-
+	jashliao 用 VC++ 實現fanfuhan OpenCV 教學087 ~ opencv-087-視頻(影片)基於幀差法(前後畫面相減)實現移動對象偵測分析
+		http://jashliao.eu/wordpress/2020/04/24/fanfuhan-opencv-%e6%95%99%e5%ad%b8087-opencv-087-%e8%a6%96%e9%a0%bb%e5%88%86%e6%9e%90%e5%9f%ba%e6%96%bc%e5%b9%80%e5%b7%ae%e6%b3%95%e5%af%a6%e7%8f%be%e7%a7%bb%e5%8b%95%e5%b0%8d%e8%b1%a1%e5%88%86/
+		畫面相減SOP
+			轉灰階		-	cvtColor(preFrame, preGray, COLOR_BGR2GRAY);
+			高斯模糊	-	GaussianBlur(preGray, preGray, Size(0, 0), 15);
+			相減運算	-	subtract(gray, preGray, diff);
+			二值化		-	threshold(diff, diff, 0, 255, THRESH_BINARY | THRESH_OTSU);			
+			開運算		-	morphologyEx(diff, diff, MORPH_OPEN, k);
 
 
 
