@@ -125,7 +125,7 @@ int main()
 			if (trackObject <= 0) {
 				// Object has been selected by user, set up CAMShift search properties once
 				Mat roi(hue, selection), maskroi(mask, selection);
-				calcHist(&roi, 1, 0, maskroi, hist, 1, &hsize, &phranges);//計算質方圖
+				calcHist(&roi, 1, 0, maskroi, hist, 1, &hsize, &phranges);//計算直方圖
 				normalize(hist, hist, 0, 255, NORM_MINMAX);//直方圖數值正規化
 
 				trackWindow = selection;

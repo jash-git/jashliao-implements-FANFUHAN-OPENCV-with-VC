@@ -325,10 +325,28 @@
 	jashliao 用 VC++ 實現fanfuhan OpenCV 教學088 ~ opencv-088-視頻(影片)基於均值遷移( meanShift)的對象移動 偵測/抓取/標記/定位/分析
 		http://jashliao.eu/wordpress/2020/04/24/fanfuhan-opencv-%e6%95%99%e5%ad%b8088-opencv-088-%e8%a6%96%e9%a0%bb%e5%88%86%e6%9e%90%e5%9f%ba%e6%96%bc%e5%9d%87%e5%80%bc%e9%81%b7%e7%a7%bb%e7%9a%84%e5%b0%8d%e8%b1%a1%e7%a7%bb%e5%8b%95-%e5%81%b5/
 		
+	jashliao 用 VC++ 實現fanfuhan OpenCV 教學089 ~ opencv-089-視頻(影片)基於連續自適應均值遷移(CamShift)的對象移動 偵測/抓取/標記/定位/分析
+		http://jashliao.eu/wordpress/2020/04/24/fanfuhan-opencv-%E6%95%99%E5%AD%B8089-opencv-089-%E8%A6%96%E9%A0%BB%E5%88%86%E6%9E%90%EF%BC%88%E5%9F%BA%E6%96%BC%E9%80%A3%E7%BA%8C%E8%87%AA%E9%81%A9%E6%87%89%E5%9D%87%E5%80%BC%E9%81%B7%E7%A7%BB-cam/
+	
+
+	
+	
+
+
+
+
+
+
+
+
 
 
 	
-
+	
+	
+	
+	
+	
 		
 	jashliao 用 VC++ 實現 fanfuhan OpenCV 教學120 ~ opencv-120-二維碼(QrCode) 檢測 與 解析/識別
 		http://jashliao.eu/wordpress/2020/04/29/fanfuhan-opencv-%e6%95%99%e5%ad%b8120-opencv-120-%e4%ba%8c%e7%b6%ad%e7%a2%bc%e6%aa%a2%e6%b8%ac%e8%88%87%e8%ad%98%e5%88%a5/
